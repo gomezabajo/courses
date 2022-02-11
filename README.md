@@ -118,45 +118,45 @@
 
 # Instituto de Empleo, Servicio Público de Empleo Estatal
 
-[Administrador de sistemas y operador de red] (250h.), December 2006 - March 2007
+[Administrador de sistemas y operador de red](https://github.com/gomezabajo/courses/blob/main/pdf/2007_Administrador_de_sistemas_y_operador_de_red_PUB.pdf) (250h.), December 2006 - March 2007
 
-[Carpintero (U.C. 3 y 4)] (309h.), April - July 2007
+[Carpintero (U.C. 3 y 4)](https://github.com/gomezabajo/courses/blob/main/pdf/2007_Carpinteria_PUB.pdf) (309h.), April - July 2007
 
-[Diseño y modificación de planos en 2D y 3D] (180h.), September - October 2007
+[Diseño y modificación de planos en 2D y 3D](https://github.com/gomezabajo/courses/blob/main/pdf/2007_Disenno_y_modificacion_de_planos_en_2D_y_3D_PUB.pdf) (180h.), September - October 2007
 
 # Universidad Camilo José Cela
 
-[Programación para Android] (250h.), May - December 2013
+[Programación para Android](https://github.com/gomezabajo/courses/blob/main/pdf/2013_Programacion_para_Android_PUB.pdf) (250h.), May - December 2013
 
 # Fundación Cultural Ángel Herrera Oria
 
-[II Jornadas 'Ciencia y Fe': 'Pilares del Laicismo: Análisis Crítico desde la Ciencia'] June 2014
+[II Jornadas 'Ciencia y Fe': 'Pilares del Laicismo: Análisis Crítico desde la Ciencia'](https://github.com/gomezabajo/courses/blob/main/pdf/2014_II_Jornadas_ciencia_y_fe.pdf) June 2014
 
-[III Jornadas 'Ciencia y Fe': 'Respuestas al fundamentalismo cientifista'] June 2015
+[III Jornadas 'Ciencia y Fe': 'Respuestas al fundamentalismo cientifista'](https://github.com/gomezabajo/courses/blob/main/pdf/2015_III_Jornadas_ciencia_y_fe.pdf) June 2015
 
-[IV Jornadas 'Ciencia y Fe': 'La identidad humana: ¿Somos animales? ¿Somos seres libres? ¿Seremos máquinas?'] June 2016
+[IV Jornadas 'Ciencia y Fe': 'La identidad humana: ¿Somos animales? ¿Somos seres libres? ¿Seremos máquinas?'](https://github.com/gomezabajo/courses/blob/main/pdf/2016_IV_Jornadas_ciencia_y_fe.pdf) June 2016
 
-[V Jornadas 'Ciencia y Fe': 'Defendiendo la verdad'] June 2017
+[V Jornadas 'Ciencia y Fe': 'Defendiendo la verdad'](https://github.com/gomezabajo/courses/blob/main/pdf/2017_V_Jornadas_ciencia_y_fe.pdf) June 2017
 
-[VI Jornadas 'Ciencia y Fe': 'Dignidad humana y ciencia'] June 2018
+[VI Jornadas 'Ciencia y Fe': 'Dignidad humana y ciencia'](https://github.com/gomezabajo/courses/blob/main/pdf/2018_VI_Jornadas_ciencia_y_fe.pdf) June 2018
 
-[VII Jornadas 'Ciencia y Fe': 'Ideología, mentiras camufladas'] June 2019
+[VII Jornadas 'Ciencia y Fe': 'Ideología, mentiras camufladas'](https://github.com/gomezabajo/courses/blob/main/pdf/2019_VII_Jornadas_ciencia_y_fe.pdf) June 2019
 
 # Universidad Rey Juan Carlos
 
-[Programación PHP básica] (75h.), August 2014
+[Programación PHP básica](https://github.com/gomezabajo/courses/blob/main/pdf/2014_Programacion_PHP_basica_PUB.pdf) (75h.), August 2014
 
-[Adobe Photoshop CS5 avanzado] (90h.), September 2014
+[Adobe Photoshop CS5 avanzado](https://github.com/gomezabajo/courses/blob/main/pdf/2014_Adobe_Photoshop_CS5_avanzado_PUB.pdf) (90h.), September 2014
 
-[Word 2013 Básico] (75h.), September 2014
+[Word 2013 Básico](https://github.com/gomezabajo/courses/blob/main/pdf/2014_Word_2013_basico_PUB.pdf) (75h.), September 2014
 
-[Prevención de Riesgos Laborales] (80h.), October 2014
+[Prevención de Riesgos Laborales](https://github.com/gomezabajo/courses/blob/main/pdf/2014_Prevencion_riesgos_PUB.pdf) (80h.), October 2014
 
-[Curso ELE online de formación en la enseñanza de español como lengua extranjera] (50h.), September - December 2017
+[Curso ELE online de formación en la enseñanza de español como lengua extranjera](https://github.com/gomezabajo/courses/blob/main/pdf/2017_Curso_ELE_ensennanza_espanol_como_lengua_extranjera_PUB.pdf) (50h.), September - December 2017
 
-[Ingeniería de servicios] (15h.), July 2018. Miríada X
+[Ingeniería de servicios](https://certificados.miriadax.net/11751037) (15h.), July 2018. Miríada X
 
-[Poténciate con redes sociales] (20h.), April 2019. Miríada X
+[Poténciate con redes sociales](https://certificados.miriadax.net/12883331) (20h.), April 2019. Miríada X
 
 # Universidad Católica de Murcia
 
