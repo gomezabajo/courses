@@ -160,87 +160,87 @@
 
 # Universidad Católica de Murcia
 
-[MatLab para principiantes] (16h.), March 2015. Miríada X
+[MatLab para principiantes](https://github.com/gomezabajo/courses/blob/main/pdf/2015_Matlab_para_principiantes.pdf) (16h.), March 2015. Miríada X
 
 # Universidad Nacional de Educación a Distancia
 
-[Proyecto ECO: sMOOC Paso a Paso] (75h.), April 2015
+[Proyecto ECO: sMOOC Paso a Paso](https://github.com/gomezabajo/courses/blob/main/pdf/2015_Proyecto_ECO_sMOOC_Paso_a_Paso_PUB.pdf) (75h.), April 2015
 
-[Proyecto ECO: How to succeed in the English B1 Level Exam - 2ed] (125h.), April 2016
+[Proyecto ECO: How to succeed in the English B1 Level Exam - 2ed](https://github.com/gomezabajo/courses/blob/main/pdf/2016_Proyecto_ECO_How_to_succeed_in_the_English_B1_Level_Exam-2ed_PUB.pdf) (125h.), April 2016
 
-[Descubre la UNED] (25h.), February 2018. UNED Abierta
+[Descubre la UNED](https://github.com/gomezabajo/courses/blob/main/pdf/2018_0_Descubre_la_UNED.pdf) (25h.), February 2018. UNED Abierta
 
-[Los espacios virtuales del estudiante en la UNED] (15h.), February 2018. UNED Abierta
+[Los espacios virtuales del estudiante en la UNED](https://github.com/gomezabajo/courses/blob/main/pdf/2018_1_Los_espacios_virtuales_del_estudiante_en_la_UNED.pdf) (15h.), February 2018. UNED Abierta
 
-[La tutoría en la UNED] (5h.), February 2018. UNED Abierta
+[La tutoría en la UNED](https://github.com/gomezabajo/courses/blob/main/pdf/2018_2_La_tutoria_en_la_UNED.pdf) (5h.), February 2018. UNED Abierta
 
-[Planificación y metodología para estudiar en la UNED] (5h.), February 2018. UNED Abierta
+[Planificación y metodología para estudiar en la UNED](https://github.com/gomezabajo/courses/blob/main/pdf/2018_3_Planificacion_y_metodologia_para_estudiar_en_la_UNED.pdf) (5h.), February 2018. UNED Abierta
 
-[Curso cero de Física para el estudiante] (25h.), August 2018. UNED Abierta
+[Curso cero de Física para el estudiante](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Curso_cero_de_Fisica_para_el_estudiante_UNED.pdf) (25h.), August 2018. UNED Abierta
 
-[Interacción Persona-Computador. Diseño para Todos y Productos de Apoyo] (15h.), October 2018. UNED Abierta
+[Interacción Persona-Computador. Diseño para Todos y Productos de Apoyo](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Interaccion_Persona-Computador_UNED.pdf) (15h.), October 2018. UNED Abierta
 
-[La sociedad de hiperconsumo] (25h.), January 2019. UNED Abierta
+[La sociedad de hiperconsumo](https://github.com/gomezabajo/courses/blob/main/pdf/2019_La_sociedad_de_hiperconsumo_UNED.pdf) (25h.), January 2019. UNED Abierta
 
-[Servicios socioterapéuticos para las familias (6ª ed)] (25h.), March 2019. UNED Abierta
+[Servicios socioterapéuticos para las familias (6ª ed)](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Socioterapia_UNED.pdf) (25h.), March 2019. UNED Abierta
 
-[Aprendizaje de la pronunciación inglesa a través de canciones y textos literarios] (25h.), March 2019. UNED Abierta
+[Aprendizaje de la pronunciación inglesa a través de canciones y textos literarios](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Pronunciacion_inglesa_UNED.pdf) (25h.), March 2019. UNED Abierta
 
-[Materiales digitales accesibles] (15h.), April 2019. UNED Abierta
+[Materiales digitales accesibles](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Materiales_digitales_accesibles_UNED.pdf) (15h.), April 2019. UNED Abierta
 
-[Entendiendo la Inteligencia Artificial: los fundamentos básicos al alcance de todos] (12h.), June 2019. UNED Abierta
+[Entendiendo la Inteligencia Artificial: los fundamentos básicos al alcance de todos](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Entendiendo_la_Inteligencia_Artificial_UNED.pdf) (12h.), June 2019. UNED Abierta
 
-[Electrónica digital] (25h.), October 2019. UNED Abierta
+[Electrónica digital](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Electronica_digital_UNED.pdf) (25h.), October 2019. UNED Abierta
 
-[Siglo XXI: La salud mental es un derecho 'Hacia una salud mental con derechos'] (8.5h.), January 2020
+[Siglo XXI: La salud mental es un derecho 'Hacia una salud mental con derechos'](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Siglo_XXI_Salud_mental_PUB.pdf) (8.5h.), January 2020
 
-[Discapacidad y Defensa Legal Activa] (14h.), March 2020. UNED Abierta
+[Discapacidad y Defensa Legal Activa](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Discapacidad_y_Defensa_UNED.pdf) (14h.), March 2020. UNED Abierta
 
-[Iniciación a la escritura de guión cinematográfico] (25h.), April 2020. UNED Abierta
+[Iniciación a la escritura de guión cinematográfico](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Guiones_de_cine_UNED.pdf) (25h.), April 2020. UNED Abierta
 
-[¿Somos éticos en nuestra sociedad? Cuestiones de Ética y Derechos Humanos] (10h.), June 2020
+[¿Somos éticos en nuestra sociedad? Cuestiones de Ética y Derechos Humanos](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Etica_UNED_PUB.pdf) (10h.), June 2020
 
-[La educación en la historia de la cultura] (25h.), October 2020. UNED Abierta
+[La educación en la historia de la cultura](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Historia_de_la_educacion_UNED.pdf) (25h.), October 2020. UNED Abierta
 
-[El arte en los paisajes culturales de la península ibérica] (25h.), November 2020. UNED Abierta
+[El arte en los paisajes culturales de la península ibérica](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Paisajes_peninsula_Iberica_UNED.pdf) (25h.), November 2020. UNED Abierta
 
-[Accesibilidad en la atención a clientes] (15h.), December 2020. UNED Abierta
+[Accesibilidad en la atención a clientes](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Accesibilidad_universal_UNED.pdf) (15h.), December 2020. UNED Abierta
 
-[Móviles accesibles para todos] (12h.), December 2020. UNED Abierta
+[Móviles accesibles para todos](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Moviles_accesibles_UNED.pdf) (12h.), December 2020. UNED Abierta
 
-[Dimensiones de la responsabilidad social] (25h.), December 2020. UNED Abierta
+[Dimensiones de la responsabilidad social](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Responsabilidad_social_UNED.pdf) (25h.), December 2020. UNED Abierta
 
-[Vivienda accesible] (12h.), January 2021. UNED Abierta
+[Vivienda accesible](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Vivienda_accesible_UNED.pdf) (12h.), January 2021. UNED Abierta
 
-[Claves jurídicas para la gestión de la diversidad en las aulas] (25h.), January 2021. UNED Abierta
+[Claves jurídicas para la gestión de la diversidad en las aulas](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Diversidad_aulas_UNED.pdf) (25h.), January 2021. UNED Abierta
 
-[La redacción del trabajo de fin de grado en seis pasos] (25h.), February 2021. UNED Abierta
+[La redacción del trabajo de fin de grado en seis pasos](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Redaccion_TFG_UNED.pdf) (25h.), February 2021. UNED Abierta
 
-[Servicios sociosanitarios y sociales en el Trabajo Social] (25h.), March 2021. UNED Abierta
+[Servicios sociosanitarios y sociales en el Trabajo Social](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Servicios_sociosanitarios_sociales_UNED.pdf) (25h.), March 2021. UNED Abierta
 
-[Conflicto y alteridad en el Mediterráneo: desde la conquista de Toledo a Lepanto] (25h.), April 2021. UNED Abierta
+[Conflicto y alteridad en el Mediterráneo: desde la conquista de Toledo a Lepanto](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Toledo_Lepanto_UNED.pdf) (25h.), April 2021. UNED Abierta
 
-[Convivir no es una opción. Evolución de los modelos de atención a personas con discapacidad intelectual] (12h.), April 2021
+[Convivir no es una opción. Evolución de los modelos de atención a personas con discapacidad intelectual](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Convivir_no_es_una_opcion_UNED_PUB.pdf) (12h.), April 2021
 
-[Fundación MAPFRE: Promoción de la salud en el entorno escolar] (25h.), June 2021. UNED Abierta
+[Fundación MAPFRE: Promoción de la salud en el entorno escolar](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Salud_entorno_escolar_UNED.pdf) (25h.), June 2021. UNED Abierta
 
-[Fundación MAPFRE: Uso saludable y responsable de las TIC] (25h.), June 2021. UNED Abierta
+[Fundación MAPFRE: Uso saludable y responsable de las TIC](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Salud_en_las_TIC_UNED.pdf) (25h.), June 2021. UNED Abierta
 
-[Accesibilidad TIC en compras públicas] (15h.), June 2021. UNED Abierta
+[Accesibilidad TIC en compras públicas](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Accesibilidad_TIC_UNED.pdf) (15h.), June 2021. UNED Abierta
 
-[Active citizenship and participation in the digital age] (25h.), June 2021. UNED Abierta
+[Active citizenship and participation in the digital age](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Active_citizenship_UNED_certificado_PUB.pdf) (25h.), June 2021. UNED Abierta
 
-[Fronteras de la Inteligencia Artificial] (20h.), July 2021
+[Fronteras de la Inteligencia Artificial](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Fronteras_IA_UNED_PUB.pdf) (20h.), July 2021
 
-[Periodismo y verificación de noticias en la era de las fake news] (25h.), November 2021. UNED Abierta
+[Periodismo y verificación de noticias en la era de las fake news](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Fake_news_UNED.pdf) (25h.), November 2021. UNED Abierta
 
-[Cómo formar en diseño para todas las personas] (12h.), December 2021. UNED Abierta
+[Cómo formar en diseño para todas las personas](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Disenno_para_todos_UNED.pdf) (12h.), December 2021. UNED Abierta
 
-[Sistemas Inteligentes de Transporte y Vehículos Autónomos: estado actual de la tecnología en 2021] (20h.), January 2022
+[Sistemas Inteligentes de Transporte y Vehículos Autónomos: estado actual de la tecnología en 2021](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Vehiculos_autonomos_UNED_PUB.pdf) (20h.), January 2022
 
 # Universidad de la Laguna
 
-[E-Learning: Aulas virtuales en Moodle para uso docente] (24h.), June 2015. Miríada X
+[E-Learning: Aulas virtuales en Moodle para uso docente](https://github.com/gomezabajo/courses/blob/main/pdf/2015_E-Learning_Aulas_virtuales_en_Moodle_para_uso_docente.pdf) (24h.), June 2015. Miríada X
 
 # Université de Genève
 
