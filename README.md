@@ -1,2 +1,2 @@
-# courses
-Attended Courses &amp; Seminars
+# Attended Courses &amp; Seminars
+
