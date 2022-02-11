@@ -2,39 +2,39 @@
 
 # Universidad Autónoma de Madrid
 
-[Linux, un entorno abierto] (32h.), July 2002
+[Linux, un entorno abierto](https://github.com/gomezabajo/courses/blob/main/pdf/2002_Linux_un_entorno_abierto.pdf) (32h.), July 2002
 
-[Curso de Cine y Pensamiento Contemporáneo "Identidad y fragilidad"] (20h.), May 2004
+[Curso de Cine y Pensamiento Contemporáneo "Identidad y fragilidad"](https://github.com/gomezabajo/courses/blob/main/pdf/2004_Cine_y_pensamiento_contemporaneo_Identidad_y_Fragilidad.pdf) (20h.), May 2004
 
-[Seminario "El Sonido Posible"] (15h.), June 2004
+[Seminario "El Sonido Posible"](https://github.com/gomezabajo/courses/blob/main/pdf/2004_El_sonido_posible.pdf) (15h.), June 2004
 
-[1er Curso Interdisciplinar Cultura Digital y Ciudadanía] (32h.), July 2004
+[1er Curso Interdisciplinar Cultura Digital y Ciudadanía](https://github.com/gomezabajo/courses/blob/main/pdf/2004_Cultura_Digital_y_Ciudadania.pdf) (32h.), July 2004
 
-[Linux, un entorno abierto] (20h.), August 2004
+[Linux, un entorno abierto](https://github.com/gomezabajo/courses/blob/main/pdf/2004_Linux_un_entorno_abierto.pdf) (20h.), August 2004
 
-[Congreso Internacional "Cultura Digital y Ciudadanía"] (36h.), November 2004
+[Congreso Internacional "Cultura Digital y Ciudadanía"](https://github.com/gomezabajo/courses/blob/main/pdf/2004_Congreso_Internacional_Cultura_Digital_y_Ciudadania.pdf) (36h.), November 2004
 
-[Taller de diseño para todos aplicado a las nuevas tecnologías] (10h.), November 2004
+[Taller de diseño para todos aplicado a las nuevas tecnologías](https://github.com/gomezabajo/courses/blob/main/pdf/2004_Disenno_para_todos_aplicado_a_las_nuevas_tecnologias.pdf) (10h.), November 2004
 
-[Curso de Música Electroacústica. Punto de encuentro] (30h.), December 2004
+[Curso de Música Electroacústica. Punto de encuentro](https://github.com/gomezabajo/courses/blob/main/pdf/2004_13_Festival_de_musica_electroacustica.pdf) (30h.), December 2004
 
-[Globalización, transformaciones sociales y espacios de esperanza] (20h.), May 2005
+[Globalización, transformaciones sociales y espacios de esperanza](https://github.com/gomezabajo/courses/blob/main/pdf/2005_Globalizacion_transformaciones_sociales_y_espacios_de_esperanza.pdf) (20h.), May 2005
 
-[Pensar en ciudadanía] (20h.), December 2005
+[Pensar en ciudadanía](https://github.com/gomezabajo/courses/blob/main/pdf/2005_Pensar_en_ciudadania.pdf) (20h.), December 2005
 
-[Las Neurociencias en la Medicina del S.XXI] (20h.), March 2006
+[Las Neurociencias en la Medicina del S.XXI](https://github.com/gomezabajo/courses/blob/main/pdf/2006_Neurociencias.pdf) (20h.), March 2006
 
-[Competencias Profesionales (Perfil Emprendedores)] (30h.), December 2014. IIC-UAM
+[Competencias Profesionales (Perfil Emprendedores)](https://github.com/gomezabajo/courses/blob/main/pdf/2014_Competencias_profesionales_perfil_emprendedores_PUB.pdf) (30h.), December 2014. IIC-UAM
 
-[Competencias Transversales (Comunicación e influencia)] (30h.), March 2015. IIC-UAM
+[Competencias Transversales (Comunicación e influencia)](https://github.com/gomezabajo/courses/blob/main/pdf/2015_Comunicacion_Influencia_IIC-UAM.pdf) (30h.), March 2015. IIC-UAM
 
-[Quijote501x: La España de El Quijote] (42h.), April 2015. edX
+[Quijote501x: La España de El Quijote](https://github.com/gomezabajo/courses/blob/main/pdf/2015_La_Espanna_del_Quijote.pdf) (42h.), April 2015. edX
 
-[Introducción al bridge: Estrategia, colaboración y planificación] (30h.), September - December 2015
+[Introducción al bridge: Estrategia, colaboración y planificación](https://github.com/gomezabajo/courses/blob/main/pdf/2015_Bridge_introduccion.pdf) (30h.), September - December 2015
 
-[Jornada de Computación Cognitiva y Biomedicina] (8h.), February 2016. Cátedra UAM/IBM
+[Jornada de Computación Cognitiva y Biomedicina](https://github.com/gomezabajo/courses/blob/main/pdf/2016_Catedra_UAM_IBM_Computacion_cognitiva_y_biomedicina.pdf) (8h.), February 2016. Cátedra UAM/IBM
 
-[II Semana de la Empleabilidad UAM - XII Foro de Empleo UAM] (2h.), February 2016
+[II Semana de la Empleabilidad UAM - XII Foro de Empleo UAM](https://github.com/gomezabajo/courses/blob/main/pdf/2016_II_Semana_Empleabilidad_UAM_PUB.pdf) (2h.), February 2016
 
 [Profundización en el Bridge: Evaluación, intervención y competición] (30h.), February 2016 - May 2016
 
