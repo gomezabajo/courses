@@ -2,7 +2,9 @@
 
 # Universidad Autónoma de Madrid
 
-[Linux, un entorno abierto](https://github.com/gomezabajo/courses/blob/main/pdf/2002_Linux_un_entorno_abierto.pdf) (32h.), July 2002
+Title | Duration | Date | 
+[Linux, un entorno abierto](https://github.com/gomezabajo/courses/blob/main/pdf/2002_Linux_un_entorno_abierto.pdf) | (32h.) | July 2002 |
+--- | --- | --- |
 
 [Curso de Cine y Pensamiento Contemporáneo "Identidad y fragilidad"](https://github.com/gomezabajo/courses/blob/main/pdf/2004_Cine_y_pensamiento_contemporaneo_Identidad_y_Fragilidad.pdf) (20h.), May 2004
 
