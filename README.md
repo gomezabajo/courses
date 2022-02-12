@@ -61,6 +61,7 @@ Title | Duration | Date | Location |
 [La protección del menor](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Proteccion_del_menor.pdf) | (25h.) | September 2021 | edX |
 [El lenguaje de los mapas](https://github.com/gomezabajo/courses/blob/main/pdf/2021_El_lenguaje_de_los_mapas.pdf) | (25h.) | December 2021 | edX |
 [La percepción del paisaje](https://github.com/gomezabajo/courses/blob/main/pdf/2021_La_percepcion_del_paisaje.pdf) | (25h.) | December 2021 | edX |
+Total | | | |
 
 # Instituto de Empleo, Servicio Público de Empleo Estatal
 
