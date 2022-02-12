@@ -5,118 +5,63 @@
 Title | Duration | Date |
 --- | --- | --- |
 [Linux, un entorno abierto](https://github.com/gomezabajo/courses/blob/main/pdf/2002_Linux_un_entorno_abierto.pdf) | (32h.) | July 2002 |
---- | --- | --- |
 [Curso de Cine y Pensamiento Contemporáneo "Identidad y fragilidad"](https://github.com/gomezabajo/courses/blob/main/pdf/2004_Cine_y_pensamiento_contemporaneo_Identidad_y_Fragilidad.pdf) | (20h.) | May 2004 |
---- | --- | --- |
 [Seminario "El Sonido Posible"](https://github.com/gomezabajo/courses/blob/main/pdf/2004_El_sonido_posible.pdf) | (15h.) | June 2004 |
---- | --- | --- |
 [1er Curso Interdisciplinar Cultura Digital y Ciudadanía](https://github.com/gomezabajo/courses/blob/main/pdf/2004_Cultura_Digital_y_Ciudadania.pdf) | (32h.) | July 2004 |
---- | --- | --- |
 [Linux, un entorno abierto](https://github.com/gomezabajo/courses/blob/main/pdf/2004_Linux_un_entorno_abierto.pdf) | (20h.) | August 2004 |
---- | --- | --- |
 [Congreso Internacional "Cultura Digital y Ciudadanía"](https://github.com/gomezabajo/courses/blob/main/pdf/2004_Congreso_Internacional_Cultura_Digital_y_Ciudadania.pdf) | (36h.) | November 2004 |
---- | --- | --- |
 [Taller de diseño para todos aplicado a las nuevas tecnologías](https://github.com/gomezabajo/courses/blob/main/pdf/2004_Disenno_para_todos_aplicado_a_las_nuevas_tecnologias.pdf) | (10h.) | November 2004 |
---- | --- | --- |
 [Curso de Música Electroacústica. Punto de encuentro](https://github.com/gomezabajo/courses/blob/main/pdf/2004_13_Festival_de_musica_electroacustica.pdf) | (30h.) | December 2004 |
---- | --- | --- |
 [Globalización, transformaciones sociales y espacios de esperanza](https://github.com/gomezabajo/courses/blob/main/pdf/2005_Globalizacion_transformaciones_sociales_y_espacios_de_esperanza.pdf) | (20h.) | May 2005 |
---- | --- | --- |
 [Pensar en ciudadanía](https://github.com/gomezabajo/courses/blob/main/pdf/2005_Pensar_en_ciudadania.pdf) | (20h.) | December 2005 |
---- | --- | --- |
 [Las Neurociencias en la Medicina del S.XXI](https://github.com/gomezabajo/courses/blob/main/pdf/2006_Neurociencias.pdf) | (20h.) | March 2006 |
---- | --- | --- |
 [Competencias Profesionales (Perfil Emprendedores)](https://github.com/gomezabajo/courses/blob/main/pdf/2014_Competencias_profesionales_perfil_emprendedores_PUB.pdf) | (30h.) | December 2014. IIC-UAM |
---- | --- | --- |
 [Competencias Transversales (Comunicación e influencia)](https://github.com/gomezabajo/courses/blob/main/pdf/2015_Comunicacion_Influencia_IIC-UAM.pdf) | (30h.) | March 2015. IIC-UAM |
---- | --- | --- |
 [Quijote501x: La España de El Quijote](https://github.com/gomezabajo/courses/blob/main/pdf/2015_La_Espanna_del_Quijote.pdf) | (42h.) | April 2015. edX |
---- | --- | --- |
 [Introducción al bridge: Estrategia, colaboración y planificación](https://github.com/gomezabajo/courses/blob/main/pdf/2015_Bridge_introduccion.pdf) | (30h.) | September - December 2015 |
---- | --- | --- |
 [Jornada de Computación Cognitiva y Biomedicina](https://github.com/gomezabajo/courses/blob/main/pdf/2016_Catedra_UAM_IBM_Computacion_cognitiva_y_biomedicina.pdf) | (8h.) | February 2016. Cátedra UAM/IBM |
---- | --- | --- |
 [II Semana de la Empleabilidad UAM - XII Foro de Empleo UAM](https://github.com/gomezabajo/courses/blob/main/pdf/2016_II_Semana_Empleabilidad_UAM_PUB.pdf) | (2h.) | February 2016 |
---- | --- | --- |
 [Profundización en el Bridge: Evaluación, intervención y competición](https://github.com/gomezabajo/courses/blob/main/pdf/2015_Bridge_introduccion.pdf) | (30h.) | February 2016 - May 2016 |
---- | --- | --- |
 [Aprendizaje automático con datos funcionales](https://github.com/gomezabajo/courses/blob/main/pdf/2016_Aprendizaje_automatico_datos_funcionales.pdf) | (8h.) | July 2016. Programa de posgrado de la EPS de la UAM |
---- | --- | --- |
 [III Semana de la Empleabilidad UAM - XIII Foro de Empleo UAM](https://github.com/gomezabajo/courses/blob/main/pdf/2017_III_Semana_Empleabilidad_UAM.pdf) | (1h.) | February 2017 |
---- | --- | --- |
 [Solución creativa de problemas](https://github.com/gomezabajo/courses/blob/main/pdf/2017_Solucion_Creativa_Problemas_PUB.pdf) | (50h.) | March 2017. Curso de formación en competencias profesionales OPE-UAM |
---- | --- | --- |
 [Competencias Profesionales ADIC – UAM (Inteligencia social)](https://github.com/gomezabajo/courses/blob/main/pdf/2017_Inteligencia_social_IIC-UAM.pdf) | (30h.) | April 2017. IIC-UAM |
---- | --- | --- |
 [Idealismo501x: Idealismo Filosófico: Cómo hacer Mundos con Ideas](https://github.com/gomezabajo/courses/blob/main/pdf/2017_Idealismo_filosofico_Como_hacer_mundos_con_ideas.pdf) | (25h.) | May 2017. edX |
---- | --- | --- |
 [Jornada de Blockchain: mitos, posibilidades y realidades](https://github.com/gomezabajo/courses/blob/main/pdf/2017_Catedra_UAM_IBM_Blockchain.pdf) | (8h.) | October 2017. Cátedra UAM/IBM |
---- | --- | --- |
 [III Jornada 'Construyendo una Universidad inclusiva'](https://github.com/gomezabajo/courses/blob/main/pdf/2018_III_Jornada_Universidad_Inclusiva_PUB.pdf) | (6h.) | April 2018 |
---- | --- | --- |
 [Competencias Profesionales ADIC – UAM (Inteligencia social)](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Inteligencia_social_IIC-UAM.pdf) | (30h.) | May 2018. IIC-UAM |
---- | --- | --- |
 [Introducción a la programación en C: Tipos de datos y estructuras](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Introduccion_a_la_programacion_en_C_Tipos_de_datos_y_estructuras.pdf) | (16h.) | March 2019. edX |
---- | --- | --- |
 [Introducción a la programación en C: Instrucciones de control y ficheros de texto](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Introduccion_a_la_programacion_en_C_Instrucciones_de_control_y_ficheros_de_texto.pdf) | (16h.) | April 2019. edX |
---- | --- | --- |
 [Introducción a la programación en C: Funciones y punteros](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Introduccion_a_la_programacion_en_C_Funciones_y_punteros.pdf) | (16h.) | April 2019. edX |
---- | --- | --- |
 [Introducción a la programación en C](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Introduccion_a_la_programacion_en_C.pdf) | (72h.) | April 2019. edX |
---- | --- | --- |
 [Competencias Profesionales ADIC – UAM (Inteligencia social)](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Inteligencia_social_IIC-UAM.pdf) | (30h.) | April 2019. IIC-UAM |
---- | --- | --- |
 [Introducción al desarrollo de aplicaciones web](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Introduccion_al_desarrollo_de_aplicaciones_web.pdf) | (25h.) | June 2019. edX |
---- | --- | --- |
 [Introducción al Derecho en la vida cotidiana](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Introduccion_al_Derecho_en_la_vida_cotidiana.pdf) | (30h.) | July 2019. edX |
---- | --- | --- |
 [Introducción a la Ingeniería del Software](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Introduccion_Ingenieria_Software.pdf) | (25h.) | July 2019. edX |
---- | --- | --- |
 [Metodologías y problemas actuales de la investigación científica](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Metodologias_problemas_investigacion.pdf) | (100h.) | August 2019. Escuela de Doctorado |
---- | --- | --- |
 [Solución de problemas y toma de decisiones](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Solucion_problemas_toma_decisiones_PUB.pdf) | (7h.) | September 2019. Escuela de Doctorado |
---- | --- | --- |
 [Soy docente, ¡qué miedo! Gestiona eficazmente tus emociones](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Gestiona_eficazmente_tus_emociones.pdf) | (16h.) | December 2019. edX |
---- | --- | --- |
 [Inteligencia Artificial: complementando al ser humano](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Inteligencia_Artificial.pdf) | (1h.) | April 2020. IAP Talks |
---- | --- | --- |
 [Política migratoria en España: respuestas ante la crisis Covid-19](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Politica_migratoria.pdf) | (1h.) | April 2020. IAP Talks |
---- | --- | --- |
 [Tiempos de reinvención: reinventándote como profesional, reinventando la empresa](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Tiempos_reinvencion.pdf) | (1h.) | April 2020. IAP Talks |
---- | --- | --- |
 [Competencias Profesionales ADIC – UAM (Gestión del cambio)](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Gestion_del_cambio_IIC-UAM.pdf) | (30h.) | May 2020. IIC-UAM |
---- | --- | --- |
 [Frente a nuevos desafíos, nuevas soluciones: Educación humanista hacia una sociedad de convivencia](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Educacion_humanista.pdf) | (1h.) | May 2020. IAP Talks |
---- | --- | --- |
 [Tests, fármacos y Covid-19](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Tests_farmacos_covid_19.pdf) | (1h.) | May 2020. IAP Talks |
---- | --- | --- |
 [Competencias profesionales genéricas para la inclusión laboral](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Competencias_profesionales.pdf) | (20h.) | June 2020. edX |
---- | --- | --- |
 [Educación de calidad para todos: equidad, inclusión y atención a la diversidad](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Educacion_calidad.pdf) | (30h.) | June 2020. edX |
---- | --- | --- |
 [Mindfulness: Introducción a la Regulación Emocional basada en Mindfulness](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Mindfulness.pdf) | (24h.) | June 2020. edX |
---- | --- | --- |
 [Jornada Café UAM - Innovación pública](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Innovacion_publica.pdf) | (1h.) | July 2020. Fundación de la Universidad Autónoma de Madrid - CAITEC |
---- | --- | --- |
 [Introducción a la genética y la evolución](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Genetica.pdf) | (9h.) | July 2020. edX |
---- | --- | --- |
 [Jornada Café UAM - Infancia y ciudadanía](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Infancia_y_Ciudadania.pdf) | (1h.) | July 2020. Fundación de la Universidad Autónoma de Madrid - CAITEC |
---- | --- | --- |
 [Cómo educar teniendo en cuenta la muerte](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Pedagogia_de_la_muerte.pdf) | (15h.) | February 2021. edX |
---- | --- | --- |
 [Cómo vivir una vida saludable y activa](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Vida_saludable.pdf) | (20h.) | March 2021. edX |
---- | --- | --- |
 [Introducción a la gestión de proyectos informáticos](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Gestion_proyectos.pdf) | (24h.) | April 2021. edX |
---- | --- | --- |
 [Desarrollo y gestión de proyectos informáticos](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Desarrollo_y_gestion_proyectos.pdf) | (49h.) | April 2021. edX |
---- | --- | --- |
 [Competencias Profesionales ADIC – UAM (Innovación y creatividad)](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Innovacion_y_creatividad_IIC-UAM.pdf) | (30h.) | May 2021. IIC-UAM |
---- | --- | --- |
 [La protección del menor](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Proteccion_del_menor.pdf) | (25h.) | September 2021. edX |
---- | --- | --- |
 [El lenguaje de los mapas](https://github.com/gomezabajo/courses/blob/main/pdf/2021_El_lenguaje_de_los_mapas.pdf) | (25h.) | December 2021. edX |
---- | --- | --- |
 [La percepción del paisaje](https://github.com/gomezabajo/courses/blob/main/pdf/2021_La_percepcion_del_paisaje.pdf) | (25h.) | December 2021. edX |
+--- | --- | --- |
 
 # Instituto de Empleo, Servicio Público de Empleo Estatal
 
