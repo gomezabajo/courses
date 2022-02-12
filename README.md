@@ -2,7 +2,8 @@
 
 # Universidad Autónoma de Madrid
 
-Title | Duration | Date | 
+Title | Duration | Date |
+--- | --- | --- |
 [Linux, un entorno abierto](https://github.com/gomezabajo/courses/blob/main/pdf/2002_Linux_un_entorno_abierto.pdf) | (32h.) | July 2002 |
 --- | --- | --- |
 
