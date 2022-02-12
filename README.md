@@ -178,6 +178,7 @@ Title | Duration | Date | Location |
 [Intellectual Humility: Practice](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Intellectual_Humility_Practice.pdf) | (14h.) | August 2019 | Coursera |
 [Know Thyself - The Value and Limits of Self-Knowledge: The Examined Life](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Know_Thyself_The_Examined_Life.pdf) | (30h.) | June 2020 | Coursera |
 [Know Thyself - The Value and Limits of Self-Knowledge: The Unconscious](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Know_Thyself_The_Unconscious.pdf) | (30h.) | July 2020 | Coursera |
+Total | (176h.) | | |
 
 # Universitat Oberta de Catalunya
 
@@ -185,6 +186,7 @@ Title | Duration | Date | Location |
 --- | --- | --- | --- |
 [Una panorámica de la minería de procesos: de la práctica a los retos algorítmicos](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Mineria_de_procesos_PUB.pdf) | (8h.) | February 2018 | |
 [La computación autónoma desde la perspectiva de los Modelos en tiempo de Ejecución](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Modelos_en_tiempo_de_ejecucion_PUB.pdf) | (4h.) | February 2018 | |
+Total | (12h.) | | |
 
 # Universidad Carlos III de Madrid
 
@@ -192,24 +194,34 @@ Title | Duration | Date | Location |
 --- | --- | --- | --- |
 [El valor del conocimiento en las sociedades democráticas y de conocimiento](https://certificados.miriadax.net/zze1khhq) | (16h.) | February 2018 | Miríada X |
 [Historia de la ética](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Historia_de_la_etica.pdf) | (18h.) | May 2020 | edX |
+Total | (34h.) | | |
 
 # Universidad Pontificia Comillas
+
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
 [Cuestiones de ciencia y religión](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Cuestiones_de_ciencia_y_religion.pdf) | (28h.) | April 2018 | Cátedra Francisco José Ayala de Ciencia, Tecnología y Religión |
-[Estrategias tutoriales para el tratamiento de las dificultades de aprendizaje, personalidad y conducta en la adolescencia](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Estrategias_tutoriales_dificultades_aprendizaje_PUB.pdf) | (110h.) | June 2018 | Instituto de Ciencias de la 
-Educación (ICE) |
+[Estrategias tutoriales para el tratamiento de las dificultades de aprendizaje, personalidad y conducta en la adolescencia](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Estrategias_tutoriales_dificultades_aprendizaje_PUB.pdf) | (110h.) | June 2018 | Instituto de Ciencias de la Educación (ICE) |
 [Psicología de los grupos](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Psicologia_de_grupos.pdf) | (15h.) | February 2019 | |
 [Elaboración de programaciones didácticas](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Elaboracion_programaciones_didacticas_PUB.pdf) | (110h.) | March 2019 | Instituto de Ciencias de la Educación (ICE) |
+Total | (263h.) | | |
 
 # Corporación Universitaria Minuto de Dios
+
+Title | Duration | Date | Location |
+--- | --- | --- | --- |
 [Resistencias Ciudadanas como acto creativo](https://certificados.miriadax.net/12016784) | (60h.) | October 2018 | Miríada X |
 
 # Telefónica Universitas
+
+Title | Duration | Date | Location |
+--- | --- | --- | --- |
 [Introducción al Machine-Learning](https://certificados.miriadax.net/12060108) | (20h.) | October 2018 | Miríada X |
 
 # Wesleyan University
 
+Title | Duration | Date | Location |
+--- | --- | --- | --- |
 [Social Psychology](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Social_Psychology.pdf) | (39h.) | November 2018 | Coursera |
 [Creative Writing: The Craft of Plot](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Creative_Writing_The_Craft_of_Plot.pdf) | (8h.) | March 2020 | Coursera |
 [Schizophrenia](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Schizophrenia.pdf) | (6h.) | August 2020 | Coursera |
@@ -218,117 +230,139 @@ Educación (ICE) |
 [The Modern and the Postmodern (Part 2)](https://github.com/gomezabajo/courses/blob/main/pdf/2021_The_Modern_and_the_Postmodern_Part_2.pdf) | (14h.) | May 2021 | Coursera |
 [Suicide prevention](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Suicide_prevention.pdf) | (7h.) | December 2021 | Coursera |
 [The Ancient Greeks](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Ancient_Greeks.pdf) | (20h.) | January 2022 | Coursera |
+Total | (111h.) | | |
 
 # Universidad del País Vasco
 
+Title | Duration | Date | Location |
+--- | --- | --- | --- |
 [Ética en la investigación universitaria](https://certificados.miriadax.net/12539562) | (36h.) | February 2019 | Miríada X |
 
 # Consejo General de Colegios Profesionales de Ingeniería Informática
 
-[Norma Técnica de Elaboración de Proyectos de Ingeniería Informática](https://github.com/gomezabajo/courses/blob/main/pdf/2019_NTEC_UNED_PUB.pdf) (25h.), April 2019. UNED
-
-[Norma Técnica Estándar de Proyectos de Ingeniería Informática para la Elaboración y Dirección de TFG y TFM de las Escuelas de Ingeniería Informática](https://github.com/gomezabajo/courses/blob/main/pdf/2019_NTFG_UNED_PUB.pdf) (25h.), April 2019. UNED
-
-[Automatización de pruebas con Selenium y Cucumber](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Testing_Selenium_Cucumber_PUB.pdf) (10h.), April 2020. CITIPA y COIIPA
+Title | Duration | Date | Location |
+--- | --- | --- | --- |
+[Norma Técnica de Elaboración de Proyectos de Ingeniería Informática](https://github.com/gomezabajo/courses/blob/main/pdf/2019_NTEC_UNED_PUB.pdf) | (25h.) | April 2019 | UNED
+[Norma Técnica Estándar de Proyectos de Ingeniería Informática para la Elaboración y Dirección de TFG y TFM de las Escuelas de Ingeniería Informática](https://github.com/gomezabajo/courses/blob/main/pdf/2019_NTFG_UNED_PUB.pdf) | (25h.) | April 2019 | UNED
+[Automatización de pruebas con Selenium y Cucumber](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Testing_Selenium_Cucumber_PUB.pdf) | (10h.) | April 2020 | CITIPA y COIIPA |
+Total | (60h.) | | |
 
 # Eindhoven University of Technology
 
-[Process Mining: Data Science in Action](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Process_Mining_Data_Science.pdf) (24h.), July 2019. Coursera
-
-[Ethics, Technology and Engineering](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Ethics_Technology_Engineering.pdf) (40h.), February 2020. Coursera
+Title | Duration | Date | Location |
+--- | --- | --- | --- |
+[Process Mining: Data Science in Action](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Process_Mining_Data_Science.pdf) | (24h.) | July 2019 | Coursera |
+[Ethics, Technology and Engineering](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Ethics_Technology_Engineering.pdf) | (40h.) | February 2020 | Coursera |
+Total | (64h.) | | |
 
 # Plataforma de Formación - Fundación AFIM
 
-[Conocimientos ofimáticos avanzados - Office 2016](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Office_2016_PUB.pdf) (60h.), October 2019
-
-[Excel 2016](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Excel_2016_PUB.pdf) (60h.), November 2019
-
-[Word 2016](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Word_2016_PUB.pdf) (60h.), December 2019
+Title | Duration | Date | Location |
+--- | --- | --- | --- |
+[Conocimientos ofimáticos avanzados - Office 2016](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Office_2016_PUB.pdf) | (60h.) | October 2019 | |
+[Excel 2016](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Excel_2016_PUB.pdf) | (60h.) | November 2019 | |
+[Word 2016](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Word_2016_PUB.pdf) | (60h.) | December 2019 | |
+Total | (180h.) | | |
 
 # Saint Petersburg State University
 
-[The Introduction to Quantum Computing](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Quantum_Computing.pdf) (20h.), April 2020. Coursera
+Title | Duration | Date | Location |
+--- | --- | --- | --- |
+[The Introduction to Quantum Computing](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Quantum_Computing.pdf) | (20h.) | April 2020 | Coursera |
 
 # National Research University Higher School of Economics
 
-[Introduction to Deep Learning](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Deep_Learning.pdf) (60h.), May 2020. Coursera
+Title | Duration | Date | Location |
+--- | --- | --- | --- |
+[Introduction to Deep Learning](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Deep_Learning.pdf) | (60h.) | May 2020 | Coursera |
 
 # Yale University
 
-[Moralities of Everyday Life](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Moralities_of_Everyday_Life.pdf) (25h.), July 2020. Coursera
-
-[A Journey through Western Christianity: from Persecuted Faith to Global Religion (200 - 1650)](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Christianity.pdf) (46h.), October 2020. Coursera
+Title | Duration | Date | Location |
+--- | --- | --- | --- |
+[Moralities of Everyday Life](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Moralities_of_Everyday_Life.pdf) | (25h.) | July 2020 | Coursera |
+[A Journey through Western Christianity: from Persecuted Faith to Global Religion (200 - 1650)](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Christianity.pdf) | (46h.) | October 2020 | Coursera |
+Total | (71h.) | | |
 
 # The Johns Hopkins University
 
-[Major Depression in the Population: A Public Health Approach](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Depression.pdf) (12h.), September 2020. Coursera
+Title | Duration | Date | Location |
+--- | --- | --- | --- |
+[Major Depression in the Population: A Public Health Approach](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Depression.pdf) | (12h.) | September 2020 | Coursera |
 
 # The University of Sydney
 
-[Positive Psychiatry and Mental Health](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Positive_Psychiatry.pdf) (20h.), November 2020. Coursera
+Title | Duration | Date | Location |
+--- | --- | --- | --- |
+[Positive Psychiatry and Mental Health](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Positive_Psychiatry.pdf) | (20h.) | November 2020 | Coursera |
 
 # Instituto Internacional de la UNESCO para la Educación Superior en América Latina y el Caribe
 
-[Desigualdades y Juventudes en América Latina y el Caribe](https://certificados.miriadax.net/14dec761-bf93-4837-8905-d8cdbb896109) (12h.), December 2020. Miríada X
+Title | Duration | Date | Location |
+--- | --- | --- | --- |
+[Desigualdades y Juventudes en América Latina y el Caribe](https://certificados.miriadax.net/14dec761-bf93-4837-8905-d8cdbb896109) | (12h.) | December 2020 | Miríada X |
 
 # Universidad de Valladolid
 
-[Detección e intervención en el paciente con riesgo suicida](https://certificados.miriadax.net/c9f33730-cc79-4509-b542-daeeea626947#gs.p4eh45) (70h.), January 2021. Miríada X
-
-[8 habilidades clave en la era digital](https://certificados.miriadax.net/4f6c1610-9691-4f8c-a1e3-848dbd486ab1#gs.qed5mx) (20h.), January 2021. Miríada X
+Title | Duration | Date | Location |
+--- | --- | --- | --- |
+[Detección e intervención en el paciente con riesgo suicida](https://certificados.miriadax.net/c9f33730-cc79-4509-b542-daeeea626947#gs.p4eh45) | (70h.) | January 2021 | Miríada X |
+[8 habilidades clave en la era digital](https://certificados.miriadax.net/4f6c1610-9691-4f8c-a1e3-848dbd486ab1#gs.qed5mx) | (20h.) | January 2021 | Miríada X |
+Total | (90h.) | | |
 
 # University of Toronto
 
-[The social context of mental health and illness](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Social_context_of_mental_health.pdf) (14h.), February 2021. Coursera
-
-[Mind control: Managing your mental health during COVID-19](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Mind_control_COVID19.pdf) (3h.), March 2021. Coursera
-
-[Introduction to Psychology](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Introduction_to_Psychology.pdf) (18h.), May 2021. Coursera
-
-[The arts and science of relationships: Understanding human needs](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Human_needs.pdf) (24h.), July 2021. Coursera
+Title | Duration | Date | Location |
+--- | --- | --- | --- |
+[The social context of mental health and illness](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Social_context_of_mental_health.pdf) | (14h.) | February 2021 | Coursera |
+[Mind control: Managing your mental health during COVID-19](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Mind_control_COVID19.pdf) | (3h.) | March 2021 | Coursera |
+[Introduction to Psychology](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Introduction_to_Psychology.pdf) | (18h.) | May 2021 | Coursera |
+[The arts and science of relationships: Understanding human needs](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Human_needs.pdf) | (24h.) | July 2021 | Coursera |
+Total | (59h.) | | |
 
 # Universidade de Santiago de Compostela
 
-[El Camino de Santiago: Patrimonio de la Humanidad para un mundo global](https://certificados.miriadax.net/b7ebb4f7-4958-4e42-946a-6f294b1fbe54) (25h.), April 2021. Miríada X
+Title | Duration | Date | Location |
+--- | --- | --- | --- |
+[El Camino de Santiago: Patrimonio de la Humanidad para un mundo global](https://certificados.miriadax.net/b7ebb4f7-4958-4e42-946a-6f294b1fbe54) | (25h.) | April 2021 | Miríada X |
 
 # The University of Queensland
 
-[Philosophy and Critical Thinking](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Philosophy_and_Critical_Thinking.pdf) (24h.), June 2021. edX
-
-[Introduction to Social Psychology](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Introduction_to_Psychology.pdf) (10h.), January 2022. edX
-
-[The Science of Everyday Thinking](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Science_of_everyday_thinking.pdf) (30h.), February 2022. edX
+Title | Duration | Date | Location |
+--- | --- | --- | --- |
+[Philosophy and Critical Thinking](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Philosophy_and_Critical_Thinking.pdf) | (24h.) | June 2021 | edX |
+[Introduction to Social Psychology](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Introduction_to_Psychology.pdf) | (10h.) | January 2022 | edX |
+[The Science of Everyday Thinking](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Science_of_everyday_thinking.pdf) | (30h.) | February 2022 | edX |
+Total | (64h.) | | |
 
 # Duke University
 
-[Think again I: How to understand arguments](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Think_again_I_How_to_understand_arguments.pdf) (25h.), August 2021. Coursera
-
-[Think again II: How to reason deductively](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Think_again_II_How_to_reason_deductively.pdf) (13h.), December 2021. Coursera
+Title | Duration | Date | Location |
+--- | --- | --- | --- |
+[Think again I: How to understand arguments](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Think_again_I_How_to_understand_arguments.pdf) | (25h.) | August 2021 | Coursera |
+[Think again II: How to reason deductively](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Think_again_II_How_to_reason_deductively.pdf) | (13h.) | December 2021 | Coursera |
+Total | (38h.) | | |
 
 # Stanford University
 
-[Love as a force for social justice](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Love_social_justice.pdf) (28h.), September 2021. Coursera
-
-[International women's health and human rights](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Womens_Health_and_Human_rights.pdf) (58h.), October 2021. Coursera
-
-[Automata Theory](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Automata_theory.pdf) (70h.), November 2021. edX
-
-[Game Theory](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Game_Theory.pdf) (18h.), November 2021. Coursera
-
-[Compilers](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Compilers.pdf) (70h.), December 2021. edX
-
-[COVID-19 training for healthcare workers](https://github.com/gomezabajo/courses/blob/main/pdf/2021_COVID_Healthcare.pdf) (8h.), December 2021. Coursera
+Title | Duration | Date | Location |
+--- | --- | --- | --- |
+[Love as a force for social justice](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Love_social_justice.pdf) | (28h.) | September 2021 | Coursera |
+[International women's health and human rights](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Womens_Health_and_Human_rights.pdf) | (58h.) | October 2021 | Coursera |
+[Automata Theory](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Automata_theory.pdf) | (70h.) | November 2021 | edX |
+[Game Theory](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Game_Theory.pdf) | (18h.) | November 2021 | Coursera |
+[Compilers](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Compilers.pdf) | (70h.) | December 2021 | edX |
+[COVID-19 training for healthcare workers](https://github.com/gomezabajo/courses/blob/main/pdf/2021_COVID_Healthcare.pdf) | (8h.) | December 2021 | Coursera |
+Total | (252h.) | | |
 
 # Pontificia Universidad Católica de Valparaíso
 
-[Visión cristiana de la persona humana](https://certificados.miriadax.net/512b50ef-9b20-4bf4-b53e-8510c275f04d) (18h.), October 2021. Miríada X
-
-[Negociación y resolución de conflictos](https://certificados.miriadax.net/af46ce3a-2045-4bc7-afb5-9092fed503d3) (18h.), October 2021. Miríada X
-
-[Ciencia y ciencia ficción](https://certificados.miriadax.net/af46ce3a-2045-4bc7-afb5-9092fed503d3) (24h.), November 2021. Miríada X
-
-[El profesor del siglo XXI](https://certificados.miriadax.net/55507f03-af57-46cf-b2fa-17574efbf859) (18h.), November 2021. Miríada X
-
-[Ser ciudadano hoy](https://certificados.miriadax.net/f55a1c0a-22d8-4b84-9e27-b169a3ac2afc) (18h.), November 2021. Miríada X
-
-[Alfabetización científica: ciencia para todos](https://certificados.miriadax.net/4d1ffc22-5e16-44e1-a6ca-51b2019db553) (18h.), November 2021. Miríada X
+Title | Duration | Date | Location |
+--- | --- | --- | --- |
+[Visión cristiana de la persona humana](https://certificados.miriadax.net/512b50ef-9b20-4bf4-b53e-8510c275f04d) | (18h.) | October 2021 | Miríada X |
+[Negociación y resolución de conflictos](https://certificados.miriadax.net/af46ce3a-2045-4bc7-afb5-9092fed503d3) | (18h.) | October 2021 | Miríada X |
+[Ciencia y ciencia ficción](https://certificados.miriadax.net/af46ce3a-2045-4bc7-afb5-9092fed503d3) | (24h.) | November 2021 | Miríada X |
+[El profesor del siglo XXI](https://certificados.miriadax.net/55507f03-af57-46cf-b2fa-17574efbf859) | (18h.) | November 2021 | Miríada X |
+[Ser ciudadano hoy](https://certificados.miriadax.net/f55a1c0a-22d8-4b84-9e27-b169a3ac2afc) | (18h.) | November 2021 | Miríada X |
+[Alfabetización científica: ciencia para todos](https://certificados.miriadax.net/4d1ffc22-5e16-44e1-a6ca-51b2019db553) | (18h.) | November 2021 | Miríada X |
+Total | (96h.) | | |
