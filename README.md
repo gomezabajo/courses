@@ -2,7 +2,7 @@
 
 # Universidad Autónoma de Madrid
 
-Title | Duration | Date |
+Title | Duration | Date. Place |
 --- | --- | --- |
 [Linux, un entorno abierto](https://github.com/gomezabajo/courses/blob/main/pdf/2002_Linux_un_entorno_abierto.pdf) | (32h.) | July 2002 |
 [Curso de Cine y Pensamiento Contemporáneo "Identidad y fragilidad"](https://github.com/gomezabajo/courses/blob/main/pdf/2004_Cine_y_pensamiento_contemporaneo_Identidad_y_Fragilidad.pdf) | (20h.) | May 2004 |
@@ -61,7 +61,6 @@ Title | Duration | Date |
 [La protección del menor](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Proteccion_del_menor.pdf) | (25h.) | September 2021. edX |
 [El lenguaje de los mapas](https://github.com/gomezabajo/courses/blob/main/pdf/2021_El_lenguaje_de_los_mapas.pdf) | (25h.) | December 2021. edX |
 [La percepción del paisaje](https://github.com/gomezabajo/courses/blob/main/pdf/2021_La_percepcion_del_paisaje.pdf) | (25h.) | December 2021. edX |
---- | --- | --- |
 
 # Instituto de Empleo, Servicio Público de Empleo Estatal
 
