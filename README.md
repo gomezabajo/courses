@@ -100,6 +100,7 @@ Title | Duration | Date | Location |
 [Curso ELE online de formación en la enseñanza de español como lengua extranjera](https://github.com/gomezabajo/courses/blob/main/pdf/2017_Curso_ELE_ensennanza_espanol_como_lengua_extranjera_PUB.pdf) | (50h.) | September - December 2017 | |
 [Ingeniería de servicios](https://certificados.miriadax.net/11751037) | (15h.) | July 2018 | Miríada X |
 [Poténciate con redes sociales](https://certificados.miriadax.net/12883331) | (20h.) | April 2019 | Miríada X |
+Total | (405h.) | | |
 
 # Universidad Católica de Murcia
 
@@ -148,91 +149,79 @@ Title | Duration | Date | Location |
 [Periodismo y verificación de noticias en la era de las fake news](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Fake_news_UNED.pdf) | (25h.) | November 2021 | UNED Abierta |
 [Cómo formar en diseño para todas las personas](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Disenno_para_todos_UNED.pdf) | (12h.) | December 2021 | UNED Abierta |
 [Sistemas Inteligentes de Transporte y Vehículos Autónomos: estado actual de la tecnología en 2021](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Vehiculos_autonomos_UNED_PUB.pdf) | (20h.) | January 2022 | |
+Total | (867,5h.) | | |
 
 # Universidad de la Laguna
 
-[E-Learning: Aulas virtuales en Moodle para uso docente](https://github.com/gomezabajo/courses/blob/main/pdf/2015_E-Learning_Aulas_virtuales_en_Moodle_para_uso_docente.pdf) (24h.), June 2015. Miríada X
+Title | Duration | Date | Location |
+--- | --- | --- | --- |
+[E-Learning: Aulas virtuales en Moodle para uso docente](https://github.com/gomezabajo/courses/blob/main/pdf/2015_E-Learning_Aulas_virtuales_en_Moodle_para_uso_docente.pdf) | (24h.) | June 2015 | Miríada X |
 
 # Université de Genève
 
-[DSM-TP International Summer School 2016 on Domain-Specific Modeling](https://github.com/gomezabajo/courses/blob/main/pdf/2016_DSM-TP_Universite_de_Geneve.pdf) (50h.), August 2016
+Title | Duration | Date | Location |
+--- | --- | --- | --- |
+[DSM-TP International Summer School 2016 on Domain-Specific Modeling](https://github.com/gomezabajo/courses/blob/main/pdf/2016_DSM-TP_Universite_de_Geneve.pdf) | (50h.) | August 2016 | |
 
 # The University of Edinburgh
 
-[Introduction to Philosophy](https://github.com/gomezabajo/courses/blob/main/pdf/2017_Introduction_to_Philosophy.pdf) (14h.), June 2017. Coursera
-
-[Philosophy and the Sciences: Introduction to the Philosophy of Physical Sciences](https://github.com/gomezabajo/courses/blob/main/pdf/2017_Philosophy_Physical_Sciences.pdf) (7h.), June 2017. Coursera
-
-[Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences](https://github.com/gomezabajo/courses/blob/main/pdf/2017_Philosophy_Cognitive_Sciences.pdf) (7h.), June 2017. Coursera
-
-[Philosophy, Science and Religion: Science and Philosophy](https://github.com/gomezabajo/courses/blob/main/pdf/2017_Science_Philosophy.pdf) (13h.), June 2017. Coursera
-
-[Philosophy, Science and Religion: Philosophy and Religion](https://github.com/gomezabajo/courses/blob/main/pdf/2017_Philosophy_Religion.pdf) (13h.), September 2017. Coursera
-
-[Philosophy, Science and Religion: Religion and Science](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Religion_Science.pdf) (16h.), May 2018. Coursera
-
-[Intellectual Humility: Theory](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Intellectual_Humility_Theory.pdf) (14h.), August 2019. Coursera
-
-[Intellectual Humility: Science](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Intellectual_Humility_Science.pdf) (18h.), August 2019. Coursera
-
-[Intellectual Humility: Practice](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Intellectual_Humility_Practice.pdf) (14h.), August 2019. Coursera
-
-[Know Thyself - The Value and Limits of Self-Knowledge: The Examined Life](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Know_Thyself_The_Examined_Life.pdf) (30h.), June 2020. Coursera
-
-[Know Thyself - The Value and Limits of Self-Knowledge: The Unconscious](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Know_Thyself_The_Unconscious.pdf) (30h.), July 2020. Coursera
+Title | Duration | Date | Location |
+--- | --- | --- | --- |
+[Introduction to Philosophy](https://github.com/gomezabajo/courses/blob/main/pdf/2017_Introduction_to_Philosophy.pdf) | (14h.) | June 2017 | Coursera |
+[Philosophy and the Sciences: Introduction to the Philosophy of Physical Sciences](https://github.com/gomezabajo/courses/blob/main/pdf/2017_Philosophy_Physical_Sciences.pdf) | (7h.) | June 2017 | Coursera |
+[Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences](https://github.com/gomezabajo/courses/blob/main/pdf/2017_Philosophy_Cognitive_Sciences.pdf) | (7h.) | June 2017 | Coursera |
+[Philosophy, Science and Religion: Science and Philosophy](https://github.com/gomezabajo/courses/blob/main/pdf/2017_Science_Philosophy.pdf) | (13h.) | June 2017 | Coursera |
+[Philosophy, Science and Religion: Philosophy and Religion](https://github.com/gomezabajo/courses/blob/main/pdf/2017_Philosophy_Religion.pdf) | (13h.) | September 2017 | Coursera |
+[Philosophy, Science and Religion: Religion and Science](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Religion_Science.pdf) | (16h.) | May 2018 | Coursera |
+[Intellectual Humility: Theory](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Intellectual_Humility_Theory.pdf) | (14h.) | August 2019 | Coursera |
+[Intellectual Humility: Science](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Intellectual_Humility_Science.pdf) | (18h.) | August 2019 | Coursera |
+[Intellectual Humility: Practice](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Intellectual_Humility_Practice.pdf) | (14h.) | August 2019 | Coursera |
+[Know Thyself - The Value and Limits of Self-Knowledge: The Examined Life](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Know_Thyself_The_Examined_Life.pdf) | (30h.) | June 2020 | Coursera |
+[Know Thyself - The Value and Limits of Self-Knowledge: The Unconscious](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Know_Thyself_The_Unconscious.pdf) | (30h.) | July 2020 | Coursera |
 
 # Universitat Oberta de Catalunya
 
-[Una panorámica de la minería de procesos: de la práctica a los retos algorítmicos](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Mineria_de_procesos_PUB.pdf) (8h.), February 2018
-
-[La computación autónoma desde la perspectiva de los Modelos en tiempo de Ejecución](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Modelos_en_tiempo_de_ejecucion_PUB.pdf) (4h.), February 2018
+Title | Duration | Date | Location |
+--- | --- | --- | --- |
+[Una panorámica de la minería de procesos: de la práctica a los retos algorítmicos](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Mineria_de_procesos_PUB.pdf) | (8h.) | February 2018 | |
+[La computación autónoma desde la perspectiva de los Modelos en tiempo de Ejecución](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Modelos_en_tiempo_de_ejecucion_PUB.pdf) | (4h.) | February 2018 | |
 
 # Universidad Carlos III de Madrid
 
-[El valor del conocimiento en las sociedades democráticas y de conocimiento](https://certificados.miriadax.net/zze1khhq) (16h.), February 2018. Miríada X
-
-[Historia de la ética](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Historia_de_la_etica.pdf) (18h.), May 2020. edX
+Title | Duration | Date | Location |
+--- | --- | --- | --- |
+[El valor del conocimiento en las sociedades democráticas y de conocimiento](https://certificados.miriadax.net/zze1khhq) | (16h.) | February 2018 | Miríada X |
+[Historia de la ética](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Historia_de_la_etica.pdf) | (18h.) | May 2020 | edX |
 
 # Universidad Pontificia Comillas
-
-[Cuestiones de ciencia y religión](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Cuestiones_de_ciencia_y_religion.pdf) (28h.), April 2018. Cátedra Francisco José Ayala de Ciencia, Tecnología y Religión
-
-[Estrategias tutoriales para el tratamiento de las dificultades de aprendizaje, personalidad y conducta en la adolescencia](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Estrategias_tutoriales_dificultades_aprendizaje_PUB.pdf) (110h.), June 2018. Instituto de Ciencias de la 
-Educación (ICE)
-
-[Psicología de los grupos](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Psicologia_de_grupos.pdf) (15h.), February 2019
-
-[Elaboración de programaciones didácticas](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Elaboracion_programaciones_didacticas_PUB.pdf) (110h.), March 2019. Instituto de Ciencias de la Educación (ICE)
+Title | Duration | Date | Location |
+--- | --- | --- | --- |
+[Cuestiones de ciencia y religión](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Cuestiones_de_ciencia_y_religion.pdf) | (28h.) | April 2018 | Cátedra Francisco José Ayala de Ciencia, Tecnología y Religión |
+[Estrategias tutoriales para el tratamiento de las dificultades de aprendizaje, personalidad y conducta en la adolescencia](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Estrategias_tutoriales_dificultades_aprendizaje_PUB.pdf) | (110h.) | June 2018 | Instituto de Ciencias de la 
+Educación (ICE) |
+[Psicología de los grupos](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Psicologia_de_grupos.pdf) | (15h.) | February 2019 | |
+[Elaboración de programaciones didácticas](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Elaboracion_programaciones_didacticas_PUB.pdf) | (110h.) | March 2019 | Instituto de Ciencias de la Educación (ICE) |
 
 # Corporación Universitaria Minuto de Dios
-
-[Resistencias Ciudadanas como acto creativo](https://certificados.miriadax.net/12016784) (60h.), October 2018. Miríada X
+[Resistencias Ciudadanas como acto creativo](https://certificados.miriadax.net/12016784) | (60h.) | October 2018 | Miríada X |
 
 # Telefónica Universitas
-
-[Introducción al Machine-Learning](https://certificados.miriadax.net/12060108) (20h.), October 2018. Miríada X
+[Introducción al Machine-Learning](https://certificados.miriadax.net/12060108) | (20h.) | October 2018 | Miríada X |
 
 # Wesleyan University
 
-[Social Psychology](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Social_Psychology.pdf) (39h.), November 2018. Coursera
-
-[Creative Writing: The Craft of Plot](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Creative_Writing_The_Craft_of_Plot.pdf) (8h.), March 2020. Coursera
-
-[Schizophrenia](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Schizophrenia.pdf) (6h.), August 2020. Coursera
-
-[The Modern and the Postmodern (Part 1)](https://github.com/gomezabajo/courses/blob/main/pdf/2020_The_Modern_and_the_Postmodern_Part_1.pdf) (11h.), December 2020. Coursera
-
-[Creative Writing: The Craft of Character](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Creative_Writing_The_Craft_of_Character.pdf) (6h.), January 2021. Coursera
-
-[The Modern and the Postmodern (Part 2)](https://github.com/gomezabajo/courses/blob/main/pdf/2021_The_Modern_and_the_Postmodern_Part_2.pdf) (14h.), May 2021. Coursera
-
-[Suicide prevention](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Suicide_prevention.pdf) (7h.), December 2021. Coursera
-
-[The Ancient Greeks](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Ancient_Greeks.pdf) (20h.), January 2022. Coursera
+[Social Psychology](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Social_Psychology.pdf) | (39h.) | November 2018 | Coursera |
+[Creative Writing: The Craft of Plot](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Creative_Writing_The_Craft_of_Plot.pdf) | (8h.) | March 2020 | Coursera |
+[Schizophrenia](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Schizophrenia.pdf) | (6h.) | August 2020 | Coursera |
+[The Modern and the Postmodern (Part 1)](https://github.com/gomezabajo/courses/blob/main/pdf/2020_The_Modern_and_the_Postmodern_Part_1.pdf) | (11h.) | December 2020 | Coursera |
+[Creative Writing: The Craft of Character](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Creative_Writing_The_Craft_of_Character.pdf) | (6h.) | January 2021 | Coursera |
+[The Modern and the Postmodern (Part 2)](https://github.com/gomezabajo/courses/blob/main/pdf/2021_The_Modern_and_the_Postmodern_Part_2.pdf) | (14h.) | May 2021 | Coursera |
+[Suicide prevention](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Suicide_prevention.pdf) | (7h.) | December 2021 | Coursera |
+[The Ancient Greeks](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Ancient_Greeks.pdf) | (20h.) | January 2022 | Coursera |
 
 # Universidad del País Vasco
 
-[Ética en la investigación universitaria](https://certificados.miriadax.net/12539562) (36h.), February 2019. Miríada X
+[Ética en la investigación universitaria](https://certificados.miriadax.net/12539562) | (36h.) | February 2019 | Miríada X |
 
 # Consejo General de Colegios Profesionales de Ingeniería Informática
 
