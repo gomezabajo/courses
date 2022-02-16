@@ -98,8 +98,8 @@ Title | Duration | Date | Location |
 [Word 2013 Básico](https://github.com/gomezabajo/courses/blob/main/pdf/2014_Word_2013_basico_PUB.pdf) | (75h.) | September 2014 | |
 [Prevención de Riesgos Laborales](https://github.com/gomezabajo/courses/blob/main/pdf/2014_Prevencion_riesgos_PUB.pdf) | (80h.) | October 2014 | |
 [Curso ELE online de formación en la enseñanza de español como lengua extranjera](https://github.com/gomezabajo/courses/blob/main/pdf/2017_Curso_ELE_ensennanza_espanol_como_lengua_extranjera_PUB.pdf) | (50h.) | September - December 2017 | |
-[Ingeniería de servicios](https://certificados.miriadax.net/11751037) | (15h.) | July 2018 | Miríada X |
-[Poténciate con redes sociales](https://certificados.miriadax.net/12883331) | (20h.) | April 2019 | Miríada X |
+[Ingeniería de servicios](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Ingenieria_de_servicios.pdf) | (15h.) | July 2018 | Miríada X |
+[Poténciate con redes sociales](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Potenciate_con_redes_sociales.pdf) | (20h.) | April 2019 | Miríada X |
 Total | (405h.) | | |
 
 # Universidad Católica de Murcia
@@ -192,7 +192,7 @@ Total | (12h.) | | |
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
-[El valor del conocimiento en las sociedades democráticas y de conocimiento](https://certificados.miriadax.net/zze1khhq) | (16h.) | February 2018 | Miríada X |
+[El valor del conocimiento en las sociedades democráticas y de conocimiento](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Valor_conocimiento_sociedades_democraticas.pdf) | (16h.) | February 2018 | Miríada X |
 [Historia de la ética](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Historia_de_la_etica.pdf) | (18h.) | May 2020 | edX |
 Total | (34h.) | | |
 
@@ -210,13 +210,13 @@ Total | (263h.) | | |
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
-[Resistencias Ciudadanas como acto creativo](https://certificados.miriadax.net/12016784) | (60h.) | October 2018 | Miríada X |
+[Resistencias Ciudadanas como acto creativo](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Resistencias_ciudadanas.pdf) | (60h.) | October 2018 | Miríada X |
 
 # Telefónica Universitas
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
-[Introducción al Machine-Learning](https://certificados.miriadax.net/12060108) | (20h.) | October 2018 | Miríada X |
+[Introducción al Machine-Learning](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Machine_Learning.pdf) | (20h.) | October 2018 | Miríada X |
 
 # Wesleyan University
 
@@ -236,7 +236,7 @@ Total | (111h.) | | |
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
-[Ética en la investigación universitaria](https://certificados.miriadax.net/12539562) | (36h.) | February 2019 | Miríada X |
+[Ética en la investigación universitaria](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Etica_en_investigacion.pdf) | (36h.) | February 2019 | Miríada X |
 
 # Consejo General de Colegios Profesionales de Ingeniería Informática
 
@@ -300,14 +300,14 @@ Title | Duration | Date | Location |
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
-[Desigualdades y Juventudes en América Latina y el Caribe](https://certificados.miriadax.net/14dec761-bf93-4837-8905-d8cdbb896109) | (12h.) | December 2020 | Miríada X |
+[Desigualdades y Juventudes en América Latina y el Caribe](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Desigualdades_America_Latina_y_Caribe.pdf) | (12h.) | December 2020 | Miríada X |
 
 # Universidad de Valladolid
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
-[Detección e intervención en el paciente con riesgo suicida](https://certificados.miriadax.net/c9f33730-cc79-4509-b542-daeeea626947#gs.p4eh45) | (70h.) | January 2021 | Miríada X |
-[8 habilidades clave en la era digital](https://certificados.miriadax.net/4f6c1610-9691-4f8c-a1e3-848dbd486ab1#gs.qed5mx) | (20h.) | January 2021 | Miríada X |
+[Detección e intervención en el paciente con riesgo suicida](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Riesgo_suicida.pdf) | (70h.) | January 2021 | Miríada X |
+[8 habilidades clave en la era digital](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Habilidades_era_digital.pdf) | (20h.) | January 2021 | Miríada X |
 Total | (90h.) | | |
 
 # University of Toronto
@@ -324,7 +324,7 @@ Total | (59h.) | | |
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
-[El Camino de Santiago: Patrimonio de la Humanidad para un mundo global](https://certificados.miriadax.net/b7ebb4f7-4958-4e42-946a-6f294b1fbe54) | (25h.) | April 2021 | Miríada X |
+[El Camino de Santiago: Patrimonio de la Humanidad para un mundo global](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Camino_Santiago_PUB.pdf) | (25h.) | April 2021 | Miríada X |
 
 # The University of Queensland
 
@@ -360,10 +360,10 @@ Total | (252h.) | | |
 
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
-[Visión cristiana de la persona humana](https://certificados.miriadax.net/512b50ef-9b20-4bf4-b53e-8510c275f04d) | (18h.) | October 2021 | Miríada X |
-[Negociación y resolución de conflictos](https://certificados.miriadax.net/af46ce3a-2045-4bc7-afb5-9092fed503d3) | (18h.) | October 2021 | Miríada X |
-[Ciencia y ciencia ficción](https://certificados.miriadax.net/af46ce3a-2045-4bc7-afb5-9092fed503d3) | (24h.) | November 2021 | Miríada X |
-[El profesor del siglo XXI](https://certificados.miriadax.net/55507f03-af57-46cf-b2fa-17574efbf859) | (18h.) | November 2021 | Miríada X |
-[Ser ciudadano hoy](https://certificados.miriadax.net/f55a1c0a-22d8-4b84-9e27-b169a3ac2afc) | (18h.) | November 2021 | Miríada X |
-[Alfabetización científica: ciencia para todos](https://certificados.miriadax.net/4d1ffc22-5e16-44e1-a6ca-51b2019db553) | (18h.) | November 2021 | Miríada X |
+[Visión cristiana de la persona humana](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Vision_cristiana_persona_humana.pdf) | (18h.) | October 2021 | Miríada X |
+[Negociación y resolución de conflictos](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Negociacion_resolucion_conflictos.pdf) | (18h.) | October 2021 | Miríada X |
+[Ciencia y ciencia ficción](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Ciencia_ciencia_ficcion.pdf) | (24h.) | November 2021 | Miríada X |
+[El profesor del siglo XXI](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Profesor_Siglo_XXI.pdf) | (18h.) | November 2021 | Miríada X |
+[Ser ciudadano hoy](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Ser_ciudadano_hoy.pdf) | (18h.) | November 2021 | Miríada X |
+[Alfabetización científica: ciencia para todos](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Ciencia_para_todos.pdf) | (18h.) | November 2021 | Miríada X |
 Total | (96h.) | | |
