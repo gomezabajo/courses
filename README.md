@@ -331,7 +331,7 @@ Title | Duration | Date | Location |
 Title | Duration | Date | Location |
 --- | --- | --- | --- |
 [Philosophy and Critical Thinking](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Philosophy_and_Critical_Thinking.pdf) | (24h.) | June 2021 | edX |
-[Introduction to Social Psychology](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Introduction_to_Psychology.pdf) | (10h.) | January 2022 | edX |
+[Introduction to Social Psychology](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Social_psychology.pdf) | (10h.) | January 2022 | edX |
 [The Science of Everyday Thinking](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Science_of_everyday_thinking.pdf) | (30h.) | February 2022 | edX |
 Total | (64h.) | | |
 
