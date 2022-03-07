@@ -342,7 +342,9 @@ Title | Duration | Date | Location |
 [Think again I: How to understand arguments](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Think_again_I_How_to_understand_arguments.pdf) | (25h.) | August 2021 | Coursera |
 [Think again II: How to reason deductively](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Think_again_II_How_to_reason_deductively.pdf) | (13h.) | December 2021 | Coursera |
 [Think again III: How to reason inductively](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Think_again_III_How_to_reason_inductively.pdf) | (24h.) | February 2022 | Coursera |
-Total | (62h.) | | |
+[Think again IV: How to avoid fallacies](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Think_again_IV_How_to_avoid_fallacies.pdf) | (18h.) | March 2022 | Coursera |
+[Introduction to logic and critical thinking](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Introduction_to_logic_and_critical_thinking.pdf) | (80h.) | March 2022 | Coursera |
+Total | (80h.) | | |
 
 # Stanford University
 
