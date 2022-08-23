@@ -371,7 +371,7 @@
 ### Stanford University
 
 &#35; | Title | Duration | Date | Location |
---- | --- | --- | --- |
+--- | --- | --- | --- | --- |
 6 | [COVID-19 training for healthcare workers](https://github.com/gomezabajo/courses/blob/main/pdf/2021_COVID_Healthcare.pdf) | 8h. | December 2021 | Coursera |
 5 | [Compilers](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Compilers.pdf) | 70h. | December 2021 | edX |
 4 | [Game Theory](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Game_Theory.pdf) | 18h. | November 2021 | Coursera |
