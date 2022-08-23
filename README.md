@@ -2,7 +2,7 @@
 
 ### Universidad Autónoma de Madrid
 
-Nº | Title | Duration | Date | Location |
+&#35 | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
 60 | [Lectura de imágenes históricas](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Imagenes_historicas.pdf) | 75h. | August 2022 | edX |
 59 | [Claves para leer imágenes](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Claves_imagenes.pdf) | 25h. | August 2022 | edX |
@@ -64,26 +64,26 @@ Nº | Title | Duration | Date | Location |
 3 | [Seminario "El Sonido Posible"](https://github.com/gomezabajo/courses/blob/main/pdf/2004_El_sonido_posible.pdf) | 15h. | June 2004 | Colegio Mayor Luis Vives |
 2 | [Curso de Cine y Pensamiento Contemporáneo "Identidad y fragilidad"](https://github.com/gomezabajo/courses/blob/main/pdf/2004_Cine_y_pensamiento_contemporaneo_Identidad_y_Fragilidad.pdf) | 20h. | May 2004 | Colegio Mayor Luis Vives |
 1 | [Linux, un entorno abierto](https://github.com/gomezabajo/courses/blob/main/pdf/2002_Linux_un_entorno_abierto.pdf) | 32h. | July 2002 | Residencia La Cristalera |
- | Total | 1298h. | | |
+&#35 | Total | 1298h. | | |
 
 ### Instituto de Empleo, Servicio Público de Empleo Estatal
 
-Nº | Title | Duration | Date | Location |
+&#35 | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
 3 | [Diseño y modificación de planos en 2D y 3D](https://github.com/gomezabajo/courses/blob/main/pdf/2007_Disenno_y_modificacion_de_planos_en_2D_y_3D_PUB.pdf) | 180h. | September - October 2007 | Fundación Infored |
 2 | [Carpintero (U.C. 3 y 4)](https://github.com/gomezabajo/courses/blob/main/pdf/2007_Carpinteria_PUB.pdf) | 309h. | April - July 2007 | Alcobendas |
 1 | [Administrador de sistemas y operador de red](https://github.com/gomezabajo/courses/blob/main/pdf/2007_Administrador_de_sistemas_y_operador_de_red_PUB.pdf) | 250h. | December 2006 - March 2007 | Microforum |
- | Total | 739h. | | |
+&#35 | Total | 739h. | | |
 
 ### Universidad Camilo José Cela
 
-Nº | Title | Duration | Date | Location |
+&#35 | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
 1 | [Programación para Android](https://github.com/gomezabajo/courses/blob/main/pdf/2013_Programacion_para_Android_PUB.pdf) | 250h. | May - December 2013
 
 ### Fundación Cultural Ángel Herrera Oria
 
-Nº | Title | Duration | Date | Location |
+&#35 | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
 6 | [VII Jornadas 'Ciencia y Fe': 'Ideología, mentiras camufladas'](https://github.com/gomezabajo/courses/blob/main/pdf/2019_VII_Jornadas_ciencia_y_fe.pdf) | | June 2019 | Colegio Mayor San Pablo |
 5 | [VI Jornadas 'Ciencia y Fe': 'Dignidad humana y ciencia'](https://github.com/gomezabajo/courses/blob/main/pdf/2018_VI_Jornadas_ciencia_y_fe.pdf) | | June 2018 | Colegio Mayor San Pablo |
@@ -94,7 +94,7 @@ Nº | Title | Duration | Date | Location |
 
 ### Universidad Rey Juan Carlos
 
-Nº | Title | Duration | Date | Location |
+&#35 | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
 7 | [Poténciate con redes sociales](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Potenciate_con_redes_sociales.pdf) | 20h. | April 2019 | Miríada X |
 6 | [Ingeniería de servicios](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Ingenieria_de_servicios.pdf) | 15h. | July 2018 | Miríada X |
@@ -103,17 +103,17 @@ Nº | Title | Duration | Date | Location |
 3 | [Word 2013 Básico](https://github.com/gomezabajo/courses/blob/main/pdf/2014_Word_2013_basico_PUB.pdf) | 75h. | September 2014 | |
 2 | [Adobe Photoshop CS5 avanzado](https://github.com/gomezabajo/courses/blob/main/pdf/2014_Adobe_Photoshop_CS5_avanzado_PUB.pdf) | 90h. | September 2014 | |
 1 | [Programación PHP básica](https://github.com/gomezabajo/courses/blob/main/pdf/2014_Programacion_PHP_basica_PUB.pdf) | 75h. | August 2014 | |
- | Total | 405h. | | |
+&#35 | Total | 405h. | | |
 
 ### Universidad Católica de Murcia
 
-Nº | Title | Duration | Date | Location |
+&#35 | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
 1 | [MatLab para principiantes](https://github.com/gomezabajo/courses/blob/main/pdf/2015_Matlab_para_principiantes.pdf) | 16h. | March 2015 | Miríada X |
 
 ### Universidad Nacional de Educación a Distancia
 
-Nº | Title | Duration | Date | Location |
+&#35 | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
 48 | [¿Cómo evaluar un proyecto de innovación docente? Una visión global](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Evaluacion_proyectos_innovacion_docente_UNED) | 6h. | July 2022 | UNED Abierta | 
 47 | [Los Templarios](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Los_Templarios_UNED_PUB.pdf) | 20h. | July 2022 | | 
@@ -163,23 +163,23 @@ Nº | Title | Duration | Date | Location |
 3 | [Descubre la UNED](https://github.com/gomezabajo/courses/blob/main/pdf/2018_0_Descubre_la_UNED.pdf) | 25h. | February 2018 | UNED Abierta |
 2 | [Proyecto ECO: How to succeed in the English B1 Level Exam - 2ed](https://github.com/gomezabajo/courses/blob/main/pdf/2016_Proyecto_ECO_How_to_succeed_in_the_English_B1_Level_Exam-2ed_PUB.pdf) | 125h. | April 2016 | |
 1 | [Proyecto ECO: sMOOC Paso a Paso](https://github.com/gomezabajo/courses/blob/main/pdf/2015_Proyecto_ECO_sMOOC_Paso_a_Paso_PUB.pdf) | 75h. | April 2015 | |
- | Total | 1080,5h. | | |
+&#35 | Total | 1080,5h. | | |
 
 ### Universidad de la Laguna
 
-Nº | Title | Duration | Date | Location |
+&#35 | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
 1 | [E-Learning: Aulas virtuales en Moodle para uso docente](https://github.com/gomezabajo/courses/blob/main/pdf/2015_E-Learning_Aulas_virtuales_en_Moodle_para_uso_docente.pdf) | 24h. | June 2015 | Miríada X |
 
 ### Université de Genève
 
-Nº | Title | Duration | Date | Location |
+&#35 | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
 1 [DSM-TP International Summer School 2016 on Domain-Specific Modeling](https://github.com/gomezabajo/courses/blob/main/pdf/2016_DSM-TP_Universite_de_Geneve.pdf) | 50h. | August 2016 | Genève |
 
 ### The University of Edinburgh
 
-Nº | Title | Duration | Date | Location |
+&#35 | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
 11 | [Know Thyself - The Value and Limits of Self-Knowledge: The Unconscious](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Know_Thyself_The_Unconscious.pdf) | 30h. | July 2020 | Coursera |
 10 | [Know Thyself - The Value and Limits of Self-Knowledge: The Examined Life](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Know_Thyself_The_Examined_Life.pdf) | 30h. | June 2020 | Coursera |
@@ -192,49 +192,49 @@ Nº | Title | Duration | Date | Location |
 3 | [Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences](https://github.com/gomezabajo/courses/blob/main/pdf/2017_Philosophy_Cognitive_Sciences.pdf) | 7h. | June 2017 | Coursera |
 2 | [Philosophy and the Sciences: Introduction to the Philosophy of Physical Sciences](https://github.com/gomezabajo/courses/blob/main/pdf/2017_Philosophy_Physical_Sciences.pdf) | 7h. | June 2017 | Coursera |
 1 | [Introduction to Philosophy](https://github.com/gomezabajo/courses/blob/main/pdf/2017_Introduction_to_Philosophy.pdf) | 14h. | June 2017 | Coursera |
- | Total | 176h. | | |
+&#35 | Total | 176h. | | |
 
 ### Universitat Oberta de Catalunya
 
-Nº | Title | Duration | Date | Location |
+&#35 | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
 2 | [La computación autónoma desde la perspectiva de los Modelos en tiempo de Ejecución](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Modelos_en_tiempo_de_ejecucion_PUB.pdf) | 4h. | February 2018 | Barcelona |
 1 | [Una panorámica de la minería de procesos: de la práctica a los retos algorítmicos](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Mineria_de_procesos_PUB.pdf) | 8h. | February 2018 | Barcelona |
- | Total | 12h. | | |
+&#35 | Total | 12h. | | |
 
 ### Universidad Carlos III de Madrid
 
-Nº | Title | Duration | Date | Location |
+&#35 | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
 2 | [Historia de la ética](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Historia_de_la_etica.pdf) | 18h. | May 2020 | edX |
 1 | [El valor del conocimiento en las sociedades democráticas y de conocimiento](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Valor_conocimiento_sociedades_democraticas.pdf) | 16h. | February 2018 | Miríada X |
- | Total | 34h. | | |
+&#35 | Total | 34h. | | |
 
 ### Universidad Pontificia Comillas
 
-Nº | Title | Duration | Date | Location |
+&#35 | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
 4 | [Estrategias tutoriales para el tratamiento de las dificultades de aprendizaje, personalidad y conducta en la adolescencia](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Estrategias_tutoriales_dificultades_aprendizaje_PUB.pdf) | 110h. | June 2018 | Instituto de Ciencias de la Educación (ICE) |
 3 | [Psicología de los grupos](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Psicologia_de_grupos.pdf) | 15h. | February 2019 | |
 2 | [Elaboración de programaciones didácticas](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Elaboracion_programaciones_didacticas_PUB.pdf) | 110h. | March 2019 | Instituto de Ciencias de la Educación (ICE) |
 1 | [Cuestiones de ciencia y religión](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Cuestiones_de_ciencia_y_religion.pdf) | 28h. | April 2018 | Cátedra Francisco José Ayala de Ciencia, Tecnología y Religión |
- | Total | 263h. | | |
+&#35 | Total | 263h. | | |
 
 ### Corporación Universitaria Minuto de Dios
 
-Nº | Title | Duration | Date | Location |
+&#35 | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
 1 | [Resistencias Ciudadanas como acto creativo](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Resistencias_ciudadanas.pdf) | 60h. | October 2018 | Miríada X |
 
 ### Telefónica Universitas
 
-Nº | Title | Duration | Date | Location |
+&#35 | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
 1 | [Introducción al Machine-Learning](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Machine_Learning.pdf) | 20h. | October 2018 | Miríada X |
 
 ### Wesleyan University
 
-Nº | Title | Duration | Date | Location |
+&#35 | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
 10 | [How to change the world](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Change_the_World.pdf) | 26h. | August 2022 | Coursera |
 9 | [Creative Writing: The Craft of Setting and Description](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Creative_Writing_The_Craft_of_Setting_and_Description.pdf) | 12h. | April 2022 | Coursera |
@@ -246,34 +246,34 @@ Nº | Title | Duration | Date | Location |
 3 | [Schizophrenia](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Schizophrenia.pdf) | 6h. | August 2020 | Coursera |
 2 | [Creative Writing: The Craft of Plot](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Creative_Writing_The_Craft_of_Plot.pdf) | 8h. | March 2020 | Coursera |
 1 | [Social Psychology](https://github.com/gomezabajo/courses/blob/main/pdf/2018_Social_Psychology.pdf) | 39h. | November 2018 | Coursera |
- | Total | 137h. | | |
+&#35 | Total | 137h. | | |
 
 ### Universidad del País Vasco
 
-Nº | Title | Duration | Date | Location |
+&#35 | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
 1 | [Ética en la investigación universitaria](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Etica_en_investigacion.pdf) | 36h. | February 2019 | Miríada X |
 
 ### Consejo General de Colegios Profesionales de Ingeniería Informática
 
-Nº | Title | Duration | Date | Location |
+&#35 | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
 3 | [Automatización de pruebas con Selenium y Cucumber](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Testing_Selenium_Cucumber_PUB.pdf) | 10h. | April 2020 | CITIPA y COIIPA |
 2 | [Norma Técnica Estándar de Proyectos de Ingeniería Informática para la Elaboración y Dirección de TFG y TFM de las Escuelas de Ingeniería Informática](https://github.com/gomezabajo/courses/blob/main/pdf/2019_NTFG_UNED_PUB.pdf) | 25h. | April 2019 | UNED
 1 | [Norma Técnica de Elaboración de Proyectos de Ingeniería Informática](https://github.com/gomezabajo/courses/blob/main/pdf/2019_NTEC_UNED_PUB.pdf) | 25h. | April 2019 | UNED
- | Total | 60h. | | |
+&#35 | Total | 60h. | | |
 
 ### Eindhoven University of Technology
 
-Nº | Title | Duration | Date | Location |
+&#35 | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
 2 | [Ethics, Technology and Engineering](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Ethics_Technology_Engineering.pdf) | 40h. | February 2020 | Coursera |
 1 | [Process Mining: Data Science in Action](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Process_Mining_Data_Science.pdf) | 24h. | July 2019 | Coursera |
- | Total | 64h. | | |
+&#35 | Total | 64h. | | |
 
 ### Plataforma de Formación - Fundación AFIM
 
-Nº | Title | Duration | Date | Location |
+&#35 | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
 6 | [Primeros auxilios](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Primeros_auxilios_PUB.pdf) | 80h. | July 2022 | |
 5 | [Prevención de riesgos laborales](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Prevencion_Riesgos_PUB.pdf) | 80h. | June 2022 | |
@@ -281,96 +281,96 @@ Nº | Title | Duration | Date | Location |
 3 | [Word 2016](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Word_2016_PUB.pdf) | 60h. | December 2019 | |
 2 | [Excel 2016](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Excel_2016_PUB.pdf) | 60h. | November 2019 | |
 1 | [Conocimientos ofimáticos avanzados - Office 2016](https://github.com/gomezabajo/courses/blob/main/pdf/2019_Office_2016_PUB.pdf) | 60h. | October 2019 | |
- | Total | 440h. | | |
+&#35 | Total | 440h. | | |
 
 ### Saint Petersburg State University
 
-Nº | Title | Duration | Date | Location |
+&#35 | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
 1 | [The Introduction to Quantum Computing](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Quantum_Computing.pdf) | 20h. | April 2020 | Coursera |
 
 ### National Research University Higher School of Economics
 
-Nº | Title | Duration | Date | Location |
+&#35 | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
 1 | [Introduction to Deep Learning](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Deep_Learning.pdf) | 60h. | May 2020 | Coursera |
 
 ### Yale University
 
-Nº | Title | Duration | Date | Location |
+&#35 | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
 2 | [A Journey through Western Christianity: from Persecuted Faith to Global Religion (200 - 1650)](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Christianity.pdf) | 46h. | October 2020 | Coursera |
 1 | [Moralities of Everyday Life](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Moralities_of_Everyday_Life.pdf) | 25h. | July 2020 | Coursera |
-| Total | 71h. | | |
+&#35 | Total | 71h. | | |
 
 ### The Johns Hopkins University
 
-Nº | Title | Duration | Date | Location |
+&#35 | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
 1 | [Major Depression in the Population: A Public Health Approach](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Depression.pdf) | 12h. | September 2020 | Coursera |
 
 ### The University of Sydney
 
-Nº | Title | Duration | Date | Location |
+&#35 | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
 2 | [Information & digital literacy for university success](https://www.gomezabajo.es/pdf/courses/2022_University_success_I.pdf) | 30h. | May 2022 | Coursera |
 1 | [Positive Psychiatry and Mental Health](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Positive_Psychiatry.pdf) | 20h. | November 2020 | Coursera |
-| Total | 50h. | | |
+&#35 | Total | 50h. | | |
 
 ### Instituto Internacional de la UNESCO para la Educación Superior en América Latina y el Caribe
 
-Nº | Title | Duration | Date | Location |
+&#35 | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
 1 | [Desigualdades y Juventudes en América Latina y el Caribe](https://github.com/gomezabajo/courses/blob/main/pdf/2020_Desigualdades_America_Latina_y_Caribe.pdf) | 12h. | December 2020 | Miríada X |
 
 ### Universidad de Valladolid
 
-Nº | Title | Duration | Date | Location |
+&#35 | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
 2 | [8 habilidades clave en la era digital](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Habilidades_era_digital.pdf) | 20h. | January 2021 | Miríada X |
 1 | [Detección e intervención en el paciente con riesgo suicida](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Riesgo_suicida.pdf) | 70h. | January 2021 | Miríada X |
-| Total | 90h. | | |
+&#35 | Total | 90h. | | |
 
 ### University of Toronto
 
-Nº | Title | Duration | Date | Location |
+&#35 | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
 4 | [The arts and science of relationships: Understanding human needs](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Human_needs.pdf) | 24h. | July 2021 | Coursera |
 3 | [Introduction to Psychology](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Introduction_to_Psychology.pdf) | 18h. | May 2021 | Coursera |
 2 | [Mind control: Managing your mental health during COVID-19](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Mind_control_COVID19.pdf) | 3h. | March 2021 | Coursera |
 1 | [The social context of mental health and illness](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Social_context_of_mental_health.pdf) | 14h. | February 2021 | Coursera |
- | Total | 59h. | | |
+&#35 | Total | 59h. | | |
 
 ### Universidade de Santiago de Compostela
 
-Nº | Title | Duration | Date | Location |
+&#35 | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
 1 | [El Camino de Santiago: Patrimonio de la Humanidad para un mundo global](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Camino_Santiago_PUB.pdf) | 25h. | April 2021 | Miríada X |
 
 ### The University of Queensland
 
-Nº | Title | Duration | Date | Location |
+&#35 | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
 4 | [Anthropology of Current World Issues](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Anthropology.pdf) | 36h. | June 2022 | edX |
 3 | [The Science of Everyday Thinking](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Science_of_everyday_thinking.pdf) | 30h. | February 2022 | edX |
 2 | [Introduction to Social Psychology](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Social_psychology.pdf) | 10h. | January 2022 | edX |
 1 | [Philosophy and Critical Thinking](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Philosophy_and_Critical_Thinking.pdf) | 24h. | June 2021 | edX |
- | Total | 100h. | | |
+&#35 | Total | 100h. | | |
 
 ### Duke University
 
-Nº | Title | Duration | Date | Location |
+&#35 | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
 5 | [Introduction to logic and critical thinking](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Introduction_to_logic_and_critical_thinking.pdf) | 80h. | March 2022 | Coursera |
 4 | [Think again IV: How to avoid fallacies](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Think_again_IV_How_to_avoid_fallacies.pdf) | 18h. | March 2022 | Coursera |
 3 | [Think again III: How to reason inductively](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Think_again_III_How_to_reason_inductively.pdf) | 24h. | February 2022 | Coursera |
 2 | [Think again II: How to reason deductively](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Think_again_II_How_to_reason_deductively.pdf) | 13h. | December 2021 | Coursera |
 1 | [Think again I: How to understand arguments](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Think_again_I_How_to_understand_arguments.pdf) | 25h. | August 2021 | Coursera |
- | Total | 80h. | | |
+&#35 | Total | 80h. | | |
 
 ### Stanford University
 
-Nº | Title | Duration | Date | Location |
+&#35 | Title | Duration | Date | Location |
 --- | --- | --- | --- |
 6 | [COVID-19 training for healthcare workers](https://github.com/gomezabajo/courses/blob/main/pdf/2021_COVID_Healthcare.pdf) | 8h. | December 2021 | Coursera |
 5 | [Compilers](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Compilers.pdf) | 70h. | December 2021 | edX |
@@ -378,11 +378,11 @@ Nº | Title | Duration | Date | Location |
 3 | [Automata Theory](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Automata_theory.pdf) | 70h. | November 2021 | edX |
 2 |[International women's health and human rights](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Womens_Health_and_Human_rights.pdf) | 58h. | October 2021 | Coursera |
 1 | [Love as a force for social justice](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Love_social_justice.pdf) | 28h. | September 2021 | Coursera |
- | Total | 252h. | | |
+&#35 | Total | 252h. | | |
 
 ### Pontificia Universidad Católica de Valparaíso
 
-Nº | Title | Duration | Date | Location |
+&#35 | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
 6 | [Alfabetización científica: ciencia para todos](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Ciencia_para_todos.pdf) | 18h. | November 2021 | Miríada X |
 5 | [Ser ciudadano hoy](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Ser_ciudadano_hoy.pdf) | 18h. | November 2021 | Miríada X |
@@ -390,4 +390,4 @@ Nº | Title | Duration | Date | Location |
 3 | [Ciencia y ciencia ficción](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Ciencia_ciencia_ficcion.pdf) | 24h. | November 2021 | Miríada X |
 2 | [Negociación y resolución de conflictos](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Negociacion_resolucion_conflictos.pdf) | 18h. | October 2021 | Miríada X |
 1 | [Visión cristiana de la persona humana](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Vision_cristiana_persona_humana.pdf) | 18h. | October 2021 | Miríada X |
- | Total | 96h. | | |
+&#35 | Total | 96h. | | |
