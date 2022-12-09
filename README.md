@@ -116,6 +116,9 @@
 
 &#35; | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
+52 | [¿De qué hablamos cuando hablamos de literatura?](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Literatura_UNED.pdf) | 25h. | December 2022 | UNED Abierta |
+51 | [Cuando la literatura habla de sí misma. Las revoluciones textuales](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Revoluciones_textuales_UNED.pdf) | 25h. | November 2022 | UNED Abierta |
+50 | [Gamifica tu aula](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Gamificacion_UNED.pdf) | 25h. | November 2022 | UNED Abierta |
 49 | [La educación de las mujeres en España (de la Hispania romana a la Ilustración)](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Educacion_de_las_mujeres_en_Espanna_UNED.pdf) | 25h. | October 2022 | UNED Abierta |
 48 | [¿Cómo evaluar un proyecto de innovación docente? Una visión global](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Evaluacion_proyectos_innovacion_docente_UNED.pdf) | 6h. | July 2022 | UNED Abierta | 
 47 | [Los Templarios](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Los_Templarios_UNED_PUB.pdf) | 20h. | July 2022 | | 
@@ -165,7 +168,7 @@
 3 | [Descubre la UNED](https://github.com/gomezabajo/courses/blob/main/pdf/2018_0_Descubre_la_UNED.pdf) | 25h. | February 2018 | UNED Abierta |
 2 | [Proyecto ECO: How to succeed in the English B1 Level Exam - 2ed](https://github.com/gomezabajo/courses/blob/main/pdf/2016_Proyecto_ECO_How_to_succeed_in_the_English_B1_Level_Exam-2ed_PUB.pdf) | 125h. | April 2016 | |
 1 | [Proyecto ECO: sMOOC Paso a Paso](https://github.com/gomezabajo/courses/blob/main/pdf/2015_Proyecto_ECO_sMOOC_Paso_a_Paso_PUB.pdf) | 75h. | April 2015 | |
-&#35; | Total | 1105,5h. | | |
+&#35; | Total | 1180,5h. | | |
 
 ### Universidad de la Laguna
 
@@ -398,6 +401,14 @@
 1 | [Visión cristiana de la persona humana](https://github.com/gomezabajo/courses/blob/main/pdf/2021_Vision_cristiana_persona_humana.pdf) | 18h. | October 2021 | Miríada X |
 &#35; | Total | 96h. | | |
 
+### Lund University
+
 &#35; | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
 1 | [Artificial intelligence: Ethics & societal challenges](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Artificial_intelligence_Ethics_challenges.pdf) | 13h. | September 2022 | Coursera |
+
+### Pennsylvania University
+
+&#35; | Title | Duration | Date | Location |
+--- | --- | --- | --- | --- |
+1 | [Ancient Philosophy: Plato & his predecessors](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Ancient_Philosophy_I.pdf) | 13h. | December 2022 | Coursera |
