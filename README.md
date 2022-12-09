@@ -407,7 +407,7 @@
 --- | --- | --- | --- | --- |
 1 | [Artificial intelligence: Ethics & societal challenges](https://github.com/gomezabajo/courses/blob/main/pdf/2022_Artificial_intelligence_Ethics_challenges.pdf) | 13h. | September 2022 | Coursera |
 
-### Pennsylvania University
+### University of Pennsylvania
 
 &#35; | Title | Duration | Date | Location |
 --- | --- | --- | --- | --- |
