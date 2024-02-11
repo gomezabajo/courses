@@ -435,3 +435,10 @@
 2 | [Introduction to technical support](https://github.com/gomezabajo/courses/blob/main/pdf/2023_Technical_support.pdf) | 12h. | February 2023 | Coursera |
 1 | [Introduction to hardware and operating systems](https://github.com/gomezabajo/courses/blob/main/pdf/2023_Hardware_operating_systems.pdf) | 17h. | January 2023 | Coursera |
 &#35; | Total | 120h. | | |
+
+### University of Alberta
+
+&#35; | Title | Duration | Date | Location |
+--- | --- | --- | --- | --- |
+1 | [Object-oriented design](https://github.com/gomezabajo/courses/blob/main/pdf/2024_Object_oriented_design.pdf) | 32h. | February 2024 | Coursera |
+
